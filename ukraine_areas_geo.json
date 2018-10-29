@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "FeatureCollection",
   "features": [
     {
@@ -61279,7 +61279,7 @@
       },
       "id": 2324,
       "properties": {
-        "name": "Миколаївська",
+        "name": "Миколаївська(1)",
         "note": "null"
       }
     },
@@ -61406,7 +61406,7 @@
       },
       "id": 2325,
       "properties": {
-        "name": "Миколаївська",
+        "name": "Миколаївська(2)",
         "note": "null"
       }
     },
