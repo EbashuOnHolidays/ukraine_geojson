@@ -1,5 +1,5 @@
 {
- "features": {
+ "features": [{
   "geometry": {
    "coordinates": [
     [
@@ -28,6 +28,6 @@
    "weather": "cloudy"
   },
   "type": "Feature"
- },
+ }],
  "type": "FeatureCollection"
 }
