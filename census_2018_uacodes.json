@@ -1,3807 +1,4580 @@
-[
+﻿[
  {
    "Point": "УКРАЇНА",
    "census2018": 42386403,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 29370995,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 13015408,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "Вінницька область",
    "census2018": 1575808,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 806331,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 769477,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Вінниця",
    "census2018": 371855,
-   "ADM2_PCODE": "UA05206"
+   "ADM2_PCODE": "UA05101",
+   "availability": "available"
  },
  {
    "Point": "  м. Жмеринка",
    "census2018": 34537,
-   "ADM2_PCODE": "UA05210"
+   "ADM2_PCODE": "UA05103",
+   "availability": "available"
  },
  {
    "Point": "  Козятин (міськрада)",
    "census2018": 24588,
-   "ADM2_PCODE": "UA05105"
+   "ADM2_PCODE": "UA05105",
+   "availability": "available"
  },
  {
    "Point": "  Ладижин (міськрада)",
    "census2018": 23904,
-   "ADM2_PCODE": "UA05106"
+   "ADM2_PCODE": "UA05106",
+   "availability": "available"
  },
  {
    "Point": "  Могилів-Подільський (міськрада)",
    "census2018": 31166,
-   "ADM2_PCODE": "UA05104"
+   "ADM2_PCODE": "UA05104",
+   "availability": "available"
  },
  {
    "Point": "  м. Хмільник",
    "census2018": 27941,
-   "ADM2_PCODE": "UA05248"
+   "ADM2_PCODE": "UA05109",
+   "availability": "available"
  },
  {
    "Point": "  Барський район",
    "census2018": 51444,
-   "ADM2_PCODE": "UA05202"
+   "ADM2_PCODE": "UA05202",
+   "availability": "available"
  },
  {
    "Point": "  Бершадський район",
    "census2018": 58449,
-   "ADM2_PCODE": "UA05204"
+   "ADM2_PCODE": "UA05204",
+   "availability": "available"
  },
  {
    "Point": "  Вінницький район",
    "census2018": 80556,
-   "ADM2_PCODE": "UA05206"
+   "ADM2_PCODE": "UA05206",
+   "availability": "available"
  },
  {
    "Point": "  Гайсинський район",
    "census2018": 56206,
-   "ADM2_PCODE": "UA05208"
+   "ADM2_PCODE": "UA05208",
+   "availability": "available"
  },
  {
    "Point": "  Жмеринський район",
    "census2018": 33781,
-   "ADM2_PCODE": "UA05210"
+   "ADM2_PCODE": "UA05210",
+   "availability": "available"
  },
  {
    "Point": "  Іллінецький район",
    "census2018": 36874,
-   "ADM2_PCODE": "UA05212"
+   "ADM2_PCODE": "UA05212",
+   "availability": "available"
  },
  {
    "Point": "  Калинівський район",
    "census2018": 57409,
-   "ADM2_PCODE": "UA05216"
+   "ADM2_PCODE": "UA05216",
+   "availability": "available"
  },
  {
    "Point": "  Козятинський район",
    "census2018": 38975,
-   "ADM2_PCODE": "UA05214"
+   "ADM2_PCODE": "UA05214",
+   "availability": "available"
  },
  {
    "Point": "  Крижопільський район",
    "census2018": 32976,
-   "ADM2_PCODE": "UA05219"
+   "ADM2_PCODE": "UA05219",
+   "availability": "available"
  },
  {
    "Point": "  Липовецький район",
    "census2018": 37272,
-   "ADM2_PCODE": "UA05222"
+   "ADM2_PCODE": "UA05222",
+   "availability": "available"
  },
  {
    "Point": "  Літинський район",
    "census2018": 34905,
-   "ADM2_PCODE": "UA05224"
+   "ADM2_PCODE": "UA05224",
+   "availability": "available"
  },
  {
    "Point": "  Могилів-Подільський район",
    "census2018": 32647,
-   "ADM2_PCODE": "UA05226"
+   "ADM2_PCODE": "UA05226",
+   "availability": "available"
  },
  {
    "Point": "  Мурованокуриловецький район",
    "census2018": 24919,
-   "ADM2_PCODE": "UA05228"
+   "ADM2_PCODE": "UA05228",
+   "availability": "available"
  },
  {
    "Point": "  Немирівський район",
    "census2018": 48347,
-   "ADM2_PCODE": "UA05230"
+   "ADM2_PCODE": "UA05230",
+   "availability": "available"
  },
  {
    "Point": "  Оратівський район",
    "census2018": 20793,
-   "ADM2_PCODE": "UA05231"
+   "ADM2_PCODE": "UA05231",
+   "availability": "available"
  },
  {
    "Point": "  Піщанський район",
    "census2018": 20678,
-   "ADM2_PCODE": "UA05232"
+   "ADM2_PCODE": "UA05232",
+   "availability": "available"
  },
  {
    "Point": "  Погребищенський район",
    "census2018": 29397,
-   "ADM2_PCODE": "UA05234"
+   "ADM2_PCODE": "UA05234",
+   "availability": "available"
  },
  {
    "Point": "  Теплицький район",
    "census2018": 27818,
-   "ADM2_PCODE": "UA05237"
+   "ADM2_PCODE": "UA05237",
+   "availability": "available"
  },
  {
    "Point": "  Тиврівський район",
    "census2018": 41819,
-   "ADM2_PCODE": "UA05245"
+   "ADM2_PCODE": "UA05245",
+   "availability": "available"
  },
  {
    "Point": "  Томашпільський район",
    "census2018": 32933,
-   "ADM2_PCODE": "UA05239"
+   "ADM2_PCODE": "UA05239",
+   "availability": "available"
  },
  {
    "Point": "  Тростянецький (Вінницька) район",
    "census2018": 35200,
-   "ADM2_PCODE": "UA05241"
+   "ADM2_PCODE": "UA05241",
+   "availability": "available"
  },
  {
    "Point": "  Тульчинський район",
    "census2018": 54727,
-   "ADM2_PCODE": "UA05243"
+   "ADM2_PCODE": "UA05243",
+   "availability": "available"
  },
  {
    "Point": "  Хмільницький район",
    "census2018": 35864,
-   "ADM2_PCODE": "UA05248"
+   "ADM2_PCODE": "UA05248",
+   "availability": "available"
  },
  {
    "Point": "  Чернівецький район",
    "census2018": 20999,
-   "ADM2_PCODE": "UA05249"
+   "ADM2_PCODE": "UA05249",
+   "availability": "available"
  },
  {
    "Point": "  Чечельницький район",
    "census2018": 20840,
-   "ADM2_PCODE": "UA05250"
+   "ADM2_PCODE": "UA05250",
+   "availability": "available"
  },
  {
    "Point": "  Шаргородський район",
    "census2018": 56661,
-   "ADM2_PCODE": "UA05253"
+   "ADM2_PCODE": "UA05253",
+   "availability": "available"
  },
  {
    "Point": "  Ямпільський район",
    "census2018": 39328,
-   "ADM2_PCODE": "UA05256"
+   "ADM2_PCODE": "UA05256",
+   "availability": "available"
  },
  {
    "Point": "  Ямпільський район",
    "census2018": 39328,
-   "ADM2_PCODE": "UA59256"
+   "ADM2_PCODE": "UA59256",
+   "availability": "available"
  },
  {
    "Point": "Волинська область",
    "census2018": 1038457,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 542680,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 495777,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Луцьк",
    "census2018": 216505,
-   "ADM2_PCODE": "UA07228"
+   "ADM2_PCODE": "UA07101",
+   "availability": "available"
  },
  {
    "Point": "  м. Володимир-Волинський",
    "census2018": 38901,
-   "ADM2_PCODE": "UA07205"
+   "ADM2_PCODE": "UA07102",
+   "availability": "available"
  },
  {
    "Point": "  м. Ковель",
    "census2018": 69089,
-   "ADM2_PCODE": "UA07104"
+   "ADM2_PCODE": "UA07104",
+   "availability": "available"
  },
  {
    "Point": "  Нововолинськ (міськрада)",
    "census2018": 56902,
-   "ADM2_PCODE": "UA07107"
+   "ADM2_PCODE": "UA07107",
+   "availability": "available"
  },
  {
    "Point": "  Володимир-Волинський район",
    "census2018": 25175,
-   "ADM2_PCODE": "UA07205"
+   "ADM2_PCODE": "UA07205",
+   "availability": "available"
  },
  {
    "Point": "  Горохівський район",
    "census2018": 51320,
-   "ADM2_PCODE": "UA07208"
+   "ADM2_PCODE": "UA07208",
+   "availability": "available"
  },
  {
    "Point": "  Іваничівський район",
    "census2018": 31781,
-   "ADM2_PCODE": "UA07211"
+   "ADM2_PCODE": "UA07211",
+   "availability": "available"
  },
  {
    "Point": "  Камінь-Каширський район",
    "census2018": 64248,
-   "ADM2_PCODE": "UA07214"
+   "ADM2_PCODE": "UA07214",
+   "availability": "available"
  },
  {
    "Point": "  Ківерцівський район",
    "census2018": 63927,
-   "ADM2_PCODE": "UA07218"
+   "ADM2_PCODE": "UA07218",
+   "availability": "available"
  },
  {
    "Point": "  Ковельський район",
    "census2018": 40337,
-   "ADM2_PCODE": "UA07221"
+   "ADM2_PCODE": "UA07221",
+   "availability": "available"
  },
  {
    "Point": "  Локачинський район",
    "census2018": 22078,
-   "ADM2_PCODE": "UA07224"
+   "ADM2_PCODE": "UA07224",
+   "availability": "available"
  },
  {
    "Point": "  Луцький район",
    "census2018": 64746,
-   "ADM2_PCODE": "UA07228"
+   "ADM2_PCODE": "UA07228",
+   "availability": "available"
  },
  {
    "Point": "  Любешівський район",
    "census2018": 35824,
-   "ADM2_PCODE": "UA07231"
+   "ADM2_PCODE": "UA07231",
+   "availability": "available"
  },
  {
    "Point": "  Любомльський район",
    "census2018": 39107,
-   "ADM2_PCODE": "UA07233"
+   "ADM2_PCODE": "UA07233",
+   "availability": "available"
  },
  {
    "Point": "  Маневицький район",
    "census2018": 54261,
-   "ADM2_PCODE": "UA07236"
+   "ADM2_PCODE": "UA07236",
+   "availability": "available"
  },
  {
    "Point": "  Ратнівський район",
    "census2018": 52193,
-   "ADM2_PCODE": "UA07242"
+   "ADM2_PCODE": "UA07242",
+   "availability": "available"
  },
  {
    "Point": "  Рожищенський район",
    "census2018": 39095,
-   "ADM2_PCODE": "UA07245"
+   "ADM2_PCODE": "UA07245",
+   "availability": "available"
  },
  {
    "Point": "  Старовижівський район",
    "census2018": 30165,
-   "ADM2_PCODE": "UA07250"
+   "ADM2_PCODE": "UA07250",
+   "availability": "available"
  },
  {
    "Point": "  Турійський район",
    "census2018": 26039,
-   "ADM2_PCODE": "UA07255"
+   "ADM2_PCODE": "UA07255",
+   "availability": "available"
  },
  {
    "Point": "  Шацький район",
    "census2018": 16764,
-   "ADM2_PCODE": "UA07257"
+   "ADM2_PCODE": "UA07257",
+   "availability": "available"
  },
  {
    "Point": "Дніпропетровська область",
    "census2018": 3231140,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Міське населення",
    "census2018": 2706984,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Сільське населення",
    "census2018": 524156,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": "  Дніпро (міськрада) ",
    "census2018": 1002944,
-   "ADM2_PCODE": "UA12101"
+   "ADM2_PCODE": "UA12101",
+   "availability": "available"
  },
  {
    "Point": "  м. Вільногірськ",
    "census2018": 23235,
-   "ADM2_PCODE": "UA12210"
+   "ADM2_PCODE": "UA12102",
+   "availability": "available"
  },
  {
    "Point": "  Кам'янське  (міськрада) ",
    "census2018": 241990,
-   "ADM2_PCODE": "UA12104"
+   "ADM2_PCODE": "UA12104",
+   "availability": "available"
  },
  {
    "Point": "  Жовті Води (міськрада)",
    "census2018": 45518,
-   "ADM2_PCODE": "UA12107"
+   "ADM2_PCODE": "UA12107",
+   "availability": "available"
  },
  {
    "Point": "  Кривий Ріг (міськрада)",
    "census2018": 632422,
-   "ADM2_PCODE": "UA12110"
+   "ADM2_PCODE": "UA12110",
+   "availability": "available"
  },
  {
    "Point": "  Марганець (міськрада)",
    "census2018": 48139,
-   "ADM2_PCODE": "UA12113"
+   "ADM2_PCODE": "UA12113",
+   "availability": "available"
  },
  {
    "Point": "  м. Нікополь",
    "census2018": 112102,
-   "ADM2_PCODE": "UA12116"
+   "ADM2_PCODE": "UA12116",
+   "availability": "available"
  },
  {
    "Point": "  м. Новомосковськ",
    "census2018": 70749,
-   "ADM2_PCODE": "UA12119"
+   "ADM2_PCODE": "UA12119",
+   "availability": "available"
  },
  {
    "Point": " Покров (міськрада)",
    "census2018": 41195,
-   "ADM2_PCODE": "UA14132"
+   "ADM2_PCODE": "UA12121",
+   "availability": "available"
  },
  {
    "Point": "  м. Павлоград",
    "census2018": 106184,
-   "ADM2_PCODE": "UA12124"
+   "ADM2_PCODE": "UA12124",
+   "availability": "available"
  },
  {
    "Point": "  м. Першотравенськ",
    "census2018": 28363,
-   "ADM2_PCODE": "UA12126"
+   "ADM2_PCODE": "UA12126",
+   "availability": "available"
  },
  {
    "Point": "  м. Синельникове",
    "census2018": 30724,
-   "ADM2_PCODE": "UA12130"
+   "ADM2_PCODE": "UA12130",
+   "availability": "available"
  },
  {
    "Point": "  Тернівка (міськрада)",
    "census2018": 28315,
-   "ADM2_PCODE": "UA12135"
+   "ADM2_PCODE": "UA12135",
+   "availability": "available"
  },
  {
    "Point": "  Апостолівський район",
    "census2018": 54324,
-   "ADM2_PCODE": "UA12203"
+   "ADM2_PCODE": "UA12203",
+   "availability": "available"
  },
  {
    "Point": "  Васильківський (Дніпропетровська) район",
    "census2018": 31920,
-   "ADM2_PCODE": "UA12207"
+   "ADM2_PCODE": "UA12207",
+   "availability": "available"
  },
  {
    "Point": "  Верхньодніпровський район",
    "census2018": 52858,
-   "ADM2_PCODE": "UA12210"
+   "ADM2_PCODE": "UA12210",
+   "availability": "available"
  },
  {
    "Point": "  Дніпровський район",
    "census2018": 84033,
-   "ADM2_PCODE": "UA12214"
+   "ADM2_PCODE": "UA12214",
+   "availability": "available"
  },
  {
    "Point": "  Криворізький район",
    "census2018": 45089,
-   "ADM2_PCODE": "UA12218"
+   "ADM2_PCODE": "UA12218",
+   "availability": "available"
  },
  {
    "Point": "  Криничанський район",
    "census2018": 34976,
-   "ADM2_PCODE": "UA12220"
+   "ADM2_PCODE": "UA12220",
+   "availability": "available"
  },
  {
    "Point": "  Магдалинівський район",
    "census2018": 33622,
-   "ADM2_PCODE": "UA12223"
+   "ADM2_PCODE": "UA12223",
+   "availability": "available"
  },
  {
    "Point": "  Межівський район",
    "census2018": 23255,
-   "ADM2_PCODE": "UA12226"
+   "ADM2_PCODE": "UA12226",
+   "availability": "available"
  },
  {
    "Point": "  Нікопольський район",
    "census2018": 40055,
-   "ADM2_PCODE": "UA12229"
+   "ADM2_PCODE": "UA12229",
+   "availability": "available"
  },
  {
    "Point": "  Новомосковський район",
    "census2018": 73224,
-   "ADM2_PCODE": "UA12232"
+   "ADM2_PCODE": "UA12232",
+   "availability": "available"
  },
  {
    "Point": "  Павлоградський район",
    "census2018": 27252,
-   "ADM2_PCODE": "UA12235"
+   "ADM2_PCODE": "UA12235",
+   "availability": "available"
  },
  {
    "Point": "  Петриківський район",
    "census2018": 25110,
-   "ADM2_PCODE": "UA12237"
+   "ADM2_PCODE": "UA12237",
+   "availability": "available"
  },
  {
    "Point": "  Петропавлівський район",
    "census2018": 25921,
-   "ADM2_PCODE": "UA12238"
+   "ADM2_PCODE": "UA12238",
+   "availability": "available"
  },
  {
    "Point": "  Покровський (Дніпропетровська) район",
    "census2018": 34220,
-   "ADM2_PCODE": "UA12242"
+   "ADM2_PCODE": "UA12242",
+   "availability": "available"
  },
  {
    "Point": "  П'ятихатський район",
    "census2018": 44575,
-   "ADM2_PCODE": "UA12245"
+   "ADM2_PCODE": "UA12245",
+   "availability": "available"
  },
  {
    "Point": "  Синельниківський район",
    "census2018": 37640,
-   "ADM2_PCODE": "UA12248"
+   "ADM2_PCODE": "UA12248",
+   "availability": "available"
  },
  {
    "Point": "  Солонянський район",
    "census2018": 38344,
-   "ADM2_PCODE": "UA12250"
+   "ADM2_PCODE": "UA12250",
+   "availability": "available"
  },
  {
    "Point": "  Софіївський район",
    "census2018": 21539,
-   "ADM2_PCODE": "UA12252"
+   "ADM2_PCODE": "UA12252",
+   "availability": "available"
  },
  {
    "Point": "  Томаківський район",
    "census2018": 24658,
-   "ADM2_PCODE": "UA12254"
+   "ADM2_PCODE": "UA12254",
+   "availability": "available"
  },
  {
    "Point": "  Царичанський район",
    "census2018": 26763,
-   "ADM2_PCODE": "UA12256"
+   "ADM2_PCODE": "UA12256",
+   "availability": "available"
  },
  {
    "Point": "  Широківський район",
    "census2018": 26880,
-   "ADM2_PCODE": "UA12258"
+   "ADM2_PCODE": "UA12258",
+   "availability": "available"
  },
  {
    "Point": "  Юр'ївський район",
    "census2018": 13002,
-   "ADM2_PCODE": "UA12259"
+   "ADM2_PCODE": "UA12259",
+   "availability": "available"
  },
  {
    "Point": "Донецька область",
    "census2018": 4200461,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 3813272,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 387189,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Донецьк (міськрада)",
    "census2018": 934737,
-   "ADM2_PCODE": "UA14101"
+   "ADM2_PCODE": "UA14101",
+   "availability": "available"
  },
  {
    "Point": "  м. Авдіївка",
    "census2018": 33311,
-   "ADM2_PCODE": "UA14102"
+   "ADM2_PCODE": "UA14102",
+   "availability": "available"
+ },
+ {
+   "Point": "  Лиман (міськрада)",
+   "census2018": 42871,
+   "ADM2_PCODE": "UA14133",
+   "availability": "available"
  },
  {
    "Point": "  Бахмут (міськрада) ",
    "census2018": 75500,
-   "ADM2_PCODE": "UA14103"
+   "ADM2_PCODE": "UA14103",
+   "availability": "available"
  },
  {
    "Point": "  м. Вугледар",
    "census2018": 15025,
-   "ADM2_PCODE": "UA14148"
+   "ADM2_PCODE": "UA14148",
+   "availability": "available"
  },
  {
    "Point": "  Горлівка (міськрада)",
    "census2018": 262401,
-   "ADM2_PCODE": "UA14106"
+   "ADM2_PCODE": "UA14106",
+   "availability": "available"
  },
  {
    "Point": "  м. Дебальцеве",
    "census2018": 24758,
-   "ADM2_PCODE": "UA14109"
+   "ADM2_PCODE": "UA14109",
+   "availability": "available"
  },
  {
    "Point": "  Торецьк (міськрада) ",
    "census2018": 69371,
-   "ADM2_PCODE": "UA14112"
+   "ADM2_PCODE": "UA14112",
+   "availability": "available"
  },
  {
    "Point": " Мирноград (міськрада) ",
    "census2018": 49439,
-   "ADM2_PCODE": "UA14113"
+   "ADM2_PCODE": "UA14113",
+   "availability": "available"
  },
  {
    "Point": "  Добропілля (міськрада)",
    "census2018": 60622,
-   "ADM2_PCODE": "UA14220"
+   "ADM2_PCODE": "UA14115",
+   "availability": "available"
  },
  {
    "Point": "  Докучаєвськ (міськрада)",
    "census2018": 23960,
-   "ADM2_PCODE": "UA14116"
+   "ADM2_PCODE": "UA14116",
+   "availability": "available"
  },
  {
    "Point": "  Дружківка (міськрада)",
    "census2018": 66971,
-   "ADM2_PCODE": "UA14117"
+   "ADM2_PCODE": "UA14117",
+   "availability": "available"
  },
  {
    "Point": "  Єнакієве (міськрада)",
    "census2018": 106339,
-   "ADM2_PCODE": "UA14120"
+   "ADM2_PCODE": "UA14120",
+   "availability": "available"
  },
  {
    "Point": "  Жданівка (міськрада)",
    "census2018": 12916,
-   "ADM2_PCODE": "UA14121"
+   "ADM2_PCODE": "UA14121",
+   "availability": "available"
  },
  {
    "Point": "  м. Хрестівка ",
    "census2018": 27701,
-   "ADM2_PCODE": "UA14125"
+   "ADM2_PCODE": "UA14125",
+   "availability": "available"
  },
  {
    "Point": "  м. Костянтинівка",
    "census2018": 71853,
-   "ADM2_PCODE": "UA14126"
+   "ADM2_PCODE": "UA14126",
+   "availability": "available"
  },
  {
    "Point": "  Краматорськ (міськрада)",
    "census2018": 188456,
-   "ADM2_PCODE": "UA14129"
+   "ADM2_PCODE": "UA14129",
+   "availability": "available"
  },
  {
    "Point": " Покровськ (міськрада) ",
    "census2018": 74951,
-   "ADM2_PCODE": "UA14132"
+   "ADM2_PCODE": "UA14132",
+   "availability": "available"
  },
  {
    "Point": "  Макіївка (міськрада)",
    "census2018": 382310,
-   "ADM2_PCODE": "UA14135"
+   "ADM2_PCODE": "UA14135",
+   "availability": "available"
  },
  {
    "Point": "  Маріуполь (міськрада)",
    "census2018": 465735,
-   "ADM2_PCODE": "UA14123"
+   "ADM2_PCODE": "UA14123",
+   "availability": "available"
  },
  {
    "Point": "  м. Новогродівка",
    "census2018": 14758,
-   "ADM2_PCODE": "UA14136"
+   "ADM2_PCODE": "UA14136",
+   "availability": "available"
  },
  {
    "Point": "  Селидове (міськрада)",
    "census2018": 51280,
-   "ADM2_PCODE": "UA14138"
+   "ADM2_PCODE": "UA14138",
+   "availability": "available"
  },
  {
    "Point": "  Слов'янськ (міськрада)",
    "census2018": 115919,
-   "ADM2_PCODE": "UA14141"
+   "ADM2_PCODE": "UA14141",
+   "availability": "available"
  },
  {
    "Point": "  Сніжне (міськрада)",
    "census2018": 68410,
-   "ADM2_PCODE": "UA14144"
+   "ADM2_PCODE": "UA14144",
+   "availability": "available"
  },
  {
    "Point": "  Торез (міськрада)",
    "census2018": 77606,
-   "ADM2_PCODE": "UA14147"
+   "ADM2_PCODE": "UA14147",
+   "availability": "available"
  },
  {
    "Point": "  Харцизьк (міськрада)",
    "census2018": 101005,
-   "ADM2_PCODE": "UA14150"
+   "ADM2_PCODE": "UA14150",
+   "availability": "available"
  },
  {
    "Point": "  Шахтарськ (міськрада)",
    "census2018": 58661,
-   "ADM2_PCODE": "UA14153"
+   "ADM2_PCODE": "UA14153",
+   "availability": "available"
  },
  {
    "Point": "  м. Ясинувата",
    "census2018": 34789,
-   "ADM2_PCODE": "UA14155"
+   "ADM2_PCODE": "UA14155",
+   "availability": "available"
  },
  {
    "Point": "  Амвросіївський район",
    "census2018": 44112,
-   "ADM2_PCODE": "UA14206"
+   "ADM2_PCODE": "UA14206",
+   "availability": "available"
  },
  {
    "Point": "  Бахмутський район ",
    "census2018": 107309,
-   "ADM2_PCODE": "UA14209"
+   "ADM2_PCODE": "UA14209",
+   "availability": "available"
  },
  {
    "Point": "  Великоновосілківський район",
    "census2018": 38338,
-   "ADM2_PCODE": "UA14212"
+   "ADM2_PCODE": "UA14212",
+   "availability": "available"
  },
  {
    "Point": "  Волноваський район",
    "census2018": 98214,
-   "ADM2_PCODE": "UA14215"
+   "ADM2_PCODE": "UA14215",
+   "availability": "available"
  },
  {
    "Point": "  Добропільський район",
    "census2018": 15418,
-   "ADM2_PCODE": "UA14220"
+   "ADM2_PCODE": "UA14220",
+   "availability": "available"
  },
  {
    "Point": "  Костянтинівський район",
    "census2018": 17760,
-   "ADM2_PCODE": "UA14224"
+   "ADM2_PCODE": "UA14224",
+   "availability": "available"
  },
  {
    "Point": "  Покровський (Донецька) район ",
    "census2018": 30354,
-   "ADM2_PCODE": "UA14227"
+   "ADM2_PCODE": "UA14227",
+   "availability": "available"
  },
  {
    "Point": "  Мар'їнський район",
    "census2018": 80812,
-   "ADM2_PCODE": "UA14233"
+   "ADM2_PCODE": "UA14233",
+   "availability": "available"
  },
  {
    "Point": "  Новоазовський район",
    "census2018": 27425,
-   "ADM2_PCODE": "UA14236"
+   "ADM2_PCODE": "UA14236",
+   "availability": "available"
  },
  {
    "Point": "  Олександрівський (Донецька) район",
    "census2018": 18283,
-   "ADM2_PCODE": "UA14203"
+   "ADM2_PCODE": "UA14203",
+   "availability": "available"
  },
  {
    "Point": "  Слов'янський район",
    "census2018": 47260,
-   "ADM2_PCODE": "UA14242"
+   "ADM2_PCODE": "UA14242",
+   "availability": "available"
  },
  {
    "Point": "  Старобешівський район",
    "census2018": 49648,
-   "ADM2_PCODE": "UA14245"
+   "ADM2_PCODE": "UA14245",
+   "availability": "available"
  },
  {
    "Point": "  Бойківський район ",
    "census2018": 14066,
-   "ADM2_PCODE": "UA14248"
+   "ADM2_PCODE": "UA14248",
+   "availability": "available"
  },
  {
    "Point": "  Шахтарський район",
    "census2018": 19019,
-   "ADM2_PCODE": "UA14252"
+   "ADM2_PCODE": "UA14252",
+   "availability": "available"
  },
  {
    "Point": "  Мангушський район",
    "census2018": 26177,
-   "ADM2_PCODE": "UA14239"
+   "ADM2_PCODE": "UA14239",
+   "availability": "available"
  },
  {
    "Point": "  Нікольський район",
    "census2018": 28188,
-   "ADM2_PCODE": "UA14217"
+   "ADM2_PCODE": "UA14217",
+   "availability": "available"
  },
  {
    "Point": "  Ясинуватський район",
    "census2018": 26423,
-   "ADM2_PCODE": "UA14255"
+   "ADM2_PCODE": "UA14255",
+   "availability": "available"
  },
  {
    "Point": "Житомирська область",
    "census2018": 1231239,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 726682,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 504557,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Житомир",
    "census2018": 266936,
-   "ADM2_PCODE": "UA18101"
+   "ADM2_PCODE": "UA18101",
+   "availability": "available"
  },
  {
    "Point": "  м. Бердичів",
    "census2018": 76229,
-   "ADM2_PCODE": "UA18104"
+   "ADM2_PCODE": "UA18104",
+   "availability": "available"
  },
  {
    "Point": "  м. Коростень",
    "census2018": 63525,
-   "ADM2_PCODE": "UA18107"
+   "ADM2_PCODE": "UA18107",
+   "availability": "available"
  },
  {
    "Point": "  м. Малин",
    "census2018": 26204,
-   "ADM2_PCODE": "UA18109"
+   "ADM2_PCODE": "UA18109",
+   "availability": "available"
  },
  {
    "Point": "  м. Новоград-Волинський",
    "census2018": 56288,
-   "ADM2_PCODE": "UA18110"
+   "ADM2_PCODE": "UA18110",
+   "availability": "available"
  },
  {
    "Point": "  Андрушівський район",
    "census2018": 32930,
-   "ADM2_PCODE": "UA18203"
+   "ADM2_PCODE": "UA18203",
+   "availability": "available"
  },
  {
    "Point": "  Баранівський район",
    "census2018": 39572,
-   "ADM2_PCODE": "UA18206"
+   "ADM2_PCODE": "UA18206",
+   "availability": "available"
  },
  {
    "Point": "  Бердичівський район",
    "census2018": 28216,
-   "ADM2_PCODE": "UA18208"
+   "ADM2_PCODE": "UA18208",
+   "availability": "available"
  },
  {
    "Point": "  Брусилівський район",
    "census2018": 14943,
-   "ADM2_PCODE": "UA18209"
+   "ADM2_PCODE": "UA18209",
+   "availability": "available"
  },
  {
    "Point": "  Хорошівський район",
    "census2018": 34553,
-   "ADM2_PCODE": "UA18211"
+   "ADM2_PCODE": "UA18211",
+   "availability": "available"
  },
  {
    "Point": "  Ємільчинський район",
    "census2018": 32629,
-   "ADM2_PCODE": "UA18217"
+   "ADM2_PCODE": "UA18217",
+   "availability": "available"
  },
  {
    "Point": "  Житомирський район",
    "census2018": 71532,
-   "ADM2_PCODE": "UA18220"
+   "ADM2_PCODE": "UA18220",
+   "availability": "available"
  },
  {
    "Point": "  Коростенський район",
    "census2018": 26183,
-   "ADM2_PCODE": "UA18223"
+   "ADM2_PCODE": "UA18223",
+   "availability": "available"
  },
  {
    "Point": "  Коростишівський район",
    "census2018": 40233,
-   "ADM2_PCODE": "UA18225"
+   "ADM2_PCODE": "UA18225",
+   "availability": "available"
  },
  {
    "Point": "  Лугинський район",
    "census2018": 16321,
-   "ADM2_PCODE": "UA18228"
+   "ADM2_PCODE": "UA18228",
+   "availability": "available"
  },
  {
    "Point": "  Любарський район",
    "census2018": 26687,
-   "ADM2_PCODE": "UA18231"
+   "ADM2_PCODE": "UA18231",
+   "availability": "available"
  },
  {
    "Point": "  Малинський район",
    "census2018": 18562,
-   "ADM2_PCODE": "UA18234"
+   "ADM2_PCODE": "UA18234",
+   "availability": "available"
  },
  {
    "Point": "  Народицький район",
    "census2018": 9501,
-   "ADM2_PCODE": "UA18237"
+   "ADM2_PCODE": "UA18237",
+   "availability": "available"
  },
  {
    "Point": "  Новоград-Волинський район",
    "census2018": 45113,
-   "ADM2_PCODE": "UA18240"
+   "ADM2_PCODE": "UA18240",
+   "availability": "available"
  },
  {
    "Point": "  Овруцький район",
    "census2018": 55608,
-   "ADM2_PCODE": "UA18242"
+   "ADM2_PCODE": "UA18242",
+   "availability": "available"
  },
  {
    "Point": "  Олевський район",
    "census2018": 41423,
-   "ADM2_PCODE": "UA18244"
+   "ADM2_PCODE": "UA18244",
+   "availability": "available"
  },
  {
    "Point": "  Попільнянський район",
    "census2018": 31073,
-   "ADM2_PCODE": "UA18247"
+   "ADM2_PCODE": "UA18247",
+   "availability": "available"
  },
  {
    "Point": "  Радомишльський район",
    "census2018": 37093,
-   "ADM2_PCODE": "UA18250"
+   "ADM2_PCODE": "UA18250",
+   "availability": "available"
  },
  {
    "Point": "  Романівський  район",
    "census2018": 27966,
-   "ADM2_PCODE": "UA18214"
+   "ADM2_PCODE": "UA18214",
+   "availability": "available"
  },
  {
    "Point": "  Ружинський район",
    "census2018": 26675,
-   "ADM2_PCODE": "UA18252"
+   "ADM2_PCODE": "UA18252",
+   "availability": "available"
  },
  {
    "Point": "  Пулинський район",
    "census2018": 22784,
-   "ADM2_PCODE": "UA18254"
+   "ADM2_PCODE": "UA18254",
+   "availability": "available"
  },
  {
    "Point": "  Черняхівський район",
    "census2018": 28109,
-   "ADM2_PCODE": "UA18256"
+   "ADM2_PCODE": "UA18256",
+   "availability": "available"
  },
  {
    "Point": "  Чуднівський район",
    "census2018": 34351,
-   "ADM2_PCODE": "UA18258"
+   "ADM2_PCODE": "UA18258",
+   "availability": "available"
  },
  {
    "Point": "Закарпатська область",
    "census2018": 1258155,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 465499,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 792656,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Ужгород",
    "census2018": 113996,
-   "ADM2_PCODE": "UA21101"
+   "ADM2_PCODE": "UA21101",
+   "availability": "available"
  },
  {
    "Point": "  Берегове (міськрада)",
    "census2018": 24143,
-   "ADM2_PCODE": "UA21102"
+   "ADM2_PCODE": "UA21102",
+   "availability": "available"
  },
  {
    "Point": "  м. Мукачево",
    "census2018": 85892,
-   "ADM2_PCODE": "UA21104"
+   "ADM2_PCODE": "UA21104",
+   "availability": "available"
  },
  {
    "Point": "  Хуст (міськрада)",
    "census2018": 31659,
-   "ADM2_PCODE": "UA21108"
+   "ADM2_PCODE": "UA21108",
+   "availability": "available"
  },
  {
    "Point": "  м. Чоп",
    "census2018": 8949,
-   "ADM2_PCODE": "UA21110"
+   "ADM2_PCODE": "UA21110",
+   "availability": "available"
  },
  {
    "Point": "  Берегівський район",
    "census2018": 50806,
-   "ADM2_PCODE": "UA21204"
+   "ADM2_PCODE": "UA21204",
+   "availability": "available"
  },
  {
    "Point": "  Великоберезнянський район",
    "census2018": 26414,
-   "ADM2_PCODE": "UA21208"
+   "ADM2_PCODE": "UA21208",
+   "availability": "available"
  },
  {
    "Point": "  Виноградівський район",
    "census2018": 121187,
-   "ADM2_PCODE": "UA21212"
+   "ADM2_PCODE": "UA21212",
+   "availability": "available"
  },
  {
    "Point": "  Воловецький район",
    "census2018": 24175,
-   "ADM2_PCODE": "UA21215"
+   "ADM2_PCODE": "UA21215",
+   "availability": "available"
  },
  {
    "Point": "  Іршавський район",
    "census2018": 100493,
-   "ADM2_PCODE": "UA21219"
+   "ADM2_PCODE": "UA21219",
+   "availability": "available"
  },
  {
    "Point": "  Міжгірський район",
    "census2018": 47715,
-   "ADM2_PCODE": "UA21224"
+   "ADM2_PCODE": "UA21224",
+   "availability": "available"
  },
  {
    "Point": "  Мукачівський район",
    "census2018": 100460,
-   "ADM2_PCODE": "UA21227"
+   "ADM2_PCODE": "UA21227",
+   "availability": "available"
  },
  {
    "Point": "  Перечинський район",
    "census2018": 31936,
-   "ADM2_PCODE": "UA21232"
+   "ADM2_PCODE": "UA21232",
+   "availability": "available"
  },
  {
    "Point": "  Рахівський район",
    "census2018": 92814,
-   "ADM2_PCODE": "UA21236"
+   "ADM2_PCODE": "UA21236",
+   "availability": "available"
  },
  {
    "Point": "  Свалявський район",
    "census2018": 54628,
-   "ADM2_PCODE": "UA21240"
+   "ADM2_PCODE": "UA21240",
+   "availability": "available"
  },
  {
    "Point": "  Тячівський район",
    "census2018": 175478,
-   "ADM2_PCODE": "UA21244"
+   "ADM2_PCODE": "UA21244",
+   "availability": "available"
  },
  {
    "Point": "  Ужгородський район",
    "census2018": 71635,
-   "ADM2_PCODE": "UA21248"
+   "ADM2_PCODE": "UA21248",
+   "availability": "available"
  },
  {
    "Point": "  Хустський район",
    "census2018": 95775,
-   "ADM2_PCODE": "UA21253"
+   "ADM2_PCODE": "UA21253",
+   "availability": "available"
  },
  {
    "Point": "Запорізька область",
    "census2018": 1723171,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Міське населення",
    "census2018": 1331490,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Сільське населення",
    "census2018": 391681,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": "  м. Запоріжжя",
    "census2018": 745432,
-   "ADM2_PCODE": "UA23101"
+   "ADM2_PCODE": "UA23101",
+   "availability": "available"
  },
  {
    "Point": "  Бердянськ (міськрада)",
    "census2018": 114787,
-   "ADM2_PCODE": "UA23104"
+   "ADM2_PCODE": "UA23104",
+   "availability": "available"
  },
  {
    "Point": "  м. Енергодар",
    "census2018": 53842,
-   "ADM2_PCODE": "UA23125"
+   "ADM2_PCODE": "UA23125",
+   "availability": "available"
  },
  {
    "Point": "  м. Мелітополь",
    "census2018": 153992,
-   "ADM2_PCODE": "UA23107"
+   "ADM2_PCODE": "UA23107",
+   "availability": "available"
  },
  {
    "Point": "  м. Токмак",
    "census2018": 31417,
-   "ADM2_PCODE": "UA23110"
+   "ADM2_PCODE": "UA23110",
+   "availability": "available"
  },
  {
    "Point": "  Бердянський район",
    "census2018": 24939,
-   "ADM2_PCODE": "UA23206"
+   "ADM2_PCODE": "UA23206",
+   "availability": "available"
  },
  {
    "Point": "  Василівський район",
    "census2018": 62726,
-   "ADM2_PCODE": "UA23209"
+   "ADM2_PCODE": "UA23209",
+   "availability": "available"
  },
  {
    "Point": "  Великобілозерський район",
    "census2018": 7879,
-   "ADM2_PCODE": "UA23211"
+   "ADM2_PCODE": "UA23211",
+   "availability": "available"
  },
  {
    "Point": "  Веселівський район",
    "census2018": 21303,
-   "ADM2_PCODE": "UA23212"
+   "ADM2_PCODE": "UA23212",
+   "availability": "available"
  },
  {
    "Point": "  Вільнянський район",
    "census2018": 46750,
-   "ADM2_PCODE": "UA23215"
+   "ADM2_PCODE": "UA23215",
+   "availability": "available"
  },
  {
    "Point": "  Гуляйпільський район",
    "census2018": 26328,
-   "ADM2_PCODE": "UA23218"
+   "ADM2_PCODE": "UA23218",
+   "availability": "available"
  },
  {
    "Point": "  Запорізький район",
    "census2018": 56925,
-   "ADM2_PCODE": "UA23221"
+   "ADM2_PCODE": "UA23221",
+   "availability": "available"
  },
  {
    "Point": "  Кам'янсько-Дніпровський район",
    "census2018": 39577,
-   "ADM2_PCODE": "UA23224"
+   "ADM2_PCODE": "UA23224",
+   "availability": "available"
  },
  {
    "Point": "  Більмацький район",
    "census2018": 21758,
-   "ADM2_PCODE": "UA23227"
+   "ADM2_PCODE": "UA23227",
+   "availability": "available"
  },
  {
    "Point": "  Мелітопольський район",
    "census2018": 49008,
-   "ADM2_PCODE": "UA23230"
+   "ADM2_PCODE": "UA23230",
+   "availability": "available"
  },
  {
    "Point": "  Михайлівський район",
    "census2018": 28542,
-   "ADM2_PCODE": "UA23233"
+   "ADM2_PCODE": "UA23233",
+   "availability": "available"
  },
  {
    "Point": "  Новомиколаївський район",
    "census2018": 15644,
-   "ADM2_PCODE": "UA23236"
+   "ADM2_PCODE": "UA23236",
+   "availability": "available"
  },
  {
    "Point": "  Оріхівський район",
    "census2018": 45214,
-   "ADM2_PCODE": "UA23239"
+   "ADM2_PCODE": "UA23239",
+   "availability": "available"
  },
  {
    "Point": "  Пологівський район",
    "census2018": 39664,
-   "ADM2_PCODE": "UA23242"
+   "ADM2_PCODE": "UA23242",
+   "availability": "available"
  },
  {
    "Point": "  Приазовський район",
    "census2018": 26973,
-   "ADM2_PCODE": "UA23245"
+   "ADM2_PCODE": "UA23245",
+   "availability": "available"
  },
  {
    "Point": "  Приморський район",
    "census2018": 29635,
-   "ADM2_PCODE": "UA23248"
+   "ADM2_PCODE": "UA23248",
+   "availability": "available"
  },
  {
    "Point": "  Розівський район",
    "census2018": 8653,
-   "ADM2_PCODE": "UA23249"
+   "ADM2_PCODE": "UA23249",
+   "availability": "available"
  },
  {
    "Point": "  Токмацький район",
    "census2018": 22076,
-   "ADM2_PCODE": "UA23252"
+   "ADM2_PCODE": "UA23252",
+   "availability": "available"
  },
  {
    "Point": "  Чернігівський (Запорізька) район",
    "census2018": 16822,
-   "ADM2_PCODE": "UA23255"
+   "ADM2_PCODE": "UA23255",
+   "availability": "available"
  },
  {
    "Point": "  Якимівський район",
    "census2018": 33285,
-   "ADM2_PCODE": "UA23203"
+   "ADM2_PCODE": "UA23203",
+   "availability": "available"
  },
  {
    "Point": "Івано-Франківська область",
    "census2018": 1377496,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 606155,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 771341,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Івано-Франківськ (міськрада)",
    "census2018": 257477,
-   "ADM2_PCODE": "UA26101"
+   "ADM2_PCODE": "UA26101",
+   "availability": "available"
  },
  {
    "Point": "  Болехів (міськрада)",
    "census2018": 21427,
-   "ADM2_PCODE": "UA26102"
+   "ADM2_PCODE": "UA26102",
+   "availability": "available"
  },
  {
    "Point": " Бурштин (міськрада)",
    "census2018": 15474,
-   "ADM2_PCODE": "UA26103"
+   "ADM2_PCODE": "UA26103",
+   "availability": "available"
  },
  {
    "Point": "  м. Калуш",
    "census2018": 66404,
-   "ADM2_PCODE": "UA26104"
+   "ADM2_PCODE": "UA26104",
+   "availability": "available"
  },
  {
    "Point": "  м. Коломия",
    "census2018": 60993,
-   "ADM2_PCODE": "UA26106"
+   "ADM2_PCODE": "UA26106",
+   "availability": "available"
  },
  {
    "Point": "  Яремче (міськрада)",
    "census2018": 23170,
-   "ADM2_PCODE": "UA26110"
+   "ADM2_PCODE": "UA26110",
+   "availability": "available"
  },
  {
    "Point": "  Богородчанський район",
    "census2018": 69731,
-   "ADM2_PCODE": "UA26204"
+   "ADM2_PCODE": "UA26204",
+   "availability": "available"
  },
  {
    "Point": "  Верховинський район",
    "census2018": 30642,
-   "ADM2_PCODE": "UA26208"
+   "ADM2_PCODE": "UA26208",
+   "availability": "available"
  },
  {
    "Point": "  Галицький район",
    "census2018": 43186,
-   "ADM2_PCODE": "UA26212"
+   "ADM2_PCODE": "UA26212",
+   "availability": "available"
  },
  {
    "Point": "  Городенківський район",
    "census2018": 52701,
-   "ADM2_PCODE": "UA26216"
+   "ADM2_PCODE": "UA26216",
+   "availability": "available"
  },
  {
    "Point": "  Долинський (Івано-Франківська) район",
    "census2018": 69162,
-   "ADM2_PCODE": "UA26220"
+   "ADM2_PCODE": "UA26220",
+   "availability": "available"
  },
  {
    "Point": "  Калуський район",
    "census2018": 58880,
-   "ADM2_PCODE": "UA26228"
+   "ADM2_PCODE": "UA26228",
+   "availability": "available"
  },
  {
    "Point": "  Коломийський район",
    "census2018": 98260,
-   "ADM2_PCODE": "UA26232"
+   "ADM2_PCODE": "UA26232",
+   "availability": "available"
  },
  {
    "Point": "  Косівський район",
    "census2018": 87806,
-   "ADM2_PCODE": "UA26236"
+   "ADM2_PCODE": "UA26236",
+   "availability": "available"
  },
  {
    "Point": "  Надвірнянський район",
    "census2018": 115171,
-   "ADM2_PCODE": "UA26240"
+   "ADM2_PCODE": "UA26240",
+   "availability": "available"
  },
  {
    "Point": "  Рогатинський район",
    "census2018": 40127,
-   "ADM2_PCODE": "UA26244"
+   "ADM2_PCODE": "UA26244",
+   "availability": "available"
  },
  {
    "Point": "  Рожнятівський район",
    "census2018": 72381,
-   "ADM2_PCODE": "UA26248"
+   "ADM2_PCODE": "UA26248",
+   "availability": "available"
  },
  {
    "Point": "  Снятинський район",
    "census2018": 64597,
-   "ADM2_PCODE": "UA26252"
+   "ADM2_PCODE": "UA26252",
+   "availability": "available"
  },
  {
    "Point": "  Тисменицький район",
    "census2018": 82782,
-   "ADM2_PCODE": "UA26258"
+   "ADM2_PCODE": "UA26258",
+   "availability": "available"
  },
  {
    "Point": "  Тлумацький район",
    "census2018": 47125,
-   "ADM2_PCODE": "UA26256"
+   "ADM2_PCODE": "UA26256",
+   "availability": "available"
  },
  {
    "Point": "Київська область",
    "census2018": 1754284,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Міське населення",
    "census2018": 1089233,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Сільське населення",
    "census2018": 665051,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": "  м. Біла Церква",
    "census2018": 209176,
-   "ADM2_PCODE": "UA32103"
+   "ADM2_PCODE": "UA32103",
+   "availability": "available"
  },
  {
    "Point": "  м. Березань",
    "census2018": 16585,
-   "ADM2_PCODE": "UA32104"
+   "ADM2_PCODE": "UA32104",
+   "availability": "available"
  },
  {
    "Point": "  м. Бориспіль",
    "census2018": 61807,
-   "ADM2_PCODE": "UA32105"
+   "ADM2_PCODE": "UA32105",
+   "availability": "available"
  },
  {
    "Point": "  м. Бровари",
    "census2018": 103787,
-   "ADM2_PCODE": "UA32106"
+   "ADM2_PCODE": "UA32106",
+   "availability": "available"
  },
  {
    "Point": "  м. Буча",
    "census2018": 33868,
-   "ADM2_PCODE": "UA32108"
+   "ADM2_PCODE": "UA32108",
+   "availability": "available"
  },
  {
    "Point": "  м. Васильків",
    "census2018": 37819,
-   "ADM2_PCODE": "UA32107"
+   "ADM2_PCODE": "UA32107",
+   "availability": "available"
  },
  {
    "Point": "  Ірпінь (міськрада)",
    "census2018": 90998,
-   "ADM2_PCODE": "UA32109"
+   "ADM2_PCODE": "UA32109",
+   "availability": "available"
  },
  {
    "Point": " Обухів (міськрада)",
    "census2018": 33568,
-   "ADM2_PCODE": "UA32116"
+   "ADM2_PCODE": "UA32116",
+   "availability": "available"
  },
  {
    "Point": "  м. Переяслав-Хмельницький",
    "census2018": 27322,
-   "ADM2_PCODE": "UA32233"
+   "ADM2_PCODE": "UA32210",
+   "availability": "available"
  },
  {
    "Point": "  м. Прип'ять",
    "census2018": 0,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "na"
  },
  {
    "Point": "  м. Ржищів",
    "census2018": 7445,
-   "ADM2_PCODE": "UA32113"
+   "ADM2_PCODE": "UA32113",
+   "availability": "available"
  },
  {
    "Point": "  м. Славутич",
    "census2018": 24983,
-   "ADM2_PCODE": "UA32115"
+   "ADM2_PCODE": "UA32115",
+   "availability": "available"
  },
  {
    "Point": "  м. Фастів",
    "census2018": 46323,
-   "ADM2_PCODE": "UA32112"
+   "ADM2_PCODE": "UA32112",
+   "availability": "available"
  },
  {
    "Point": "  Баришівський район",
    "census2018": 35080,
-   "ADM2_PCODE": "UA32202"
+   "ADM2_PCODE": "UA32202",
+   "availability": "available"
  },
  {
    "Point": "  Білоцерківський район",
    "census2018": 49404,
-   "ADM2_PCODE": "UA32204"
+   "ADM2_PCODE": "UA32204",
+   "availability": "available"
  },
  {
    "Point": "  Богуславський район",
    "census2018": 34322,
-   "ADM2_PCODE": "UA32206"
+   "ADM2_PCODE": "UA32206",
+   "availability": "available"
  },
  {
    "Point": "  Бориспільський район",
    "census2018": 53121,
-   "ADM2_PCODE": "UA32208"
+   "ADM2_PCODE": "UA32208",
+   "availability": "available"
  },
  {
    "Point": "  Бородянський район",
    "census2018": 57527,
-   "ADM2_PCODE": "UA32210"
+   "ADM2_PCODE": "UA32210",
+   "availability": "available"
  },
  {
    "Point": "  Броварський район",
    "census2018": 68540,
-   "ADM2_PCODE": "UA32212"
+   "ADM2_PCODE": "UA32212",
+   "availability": "available"
  },
  {
    "Point": "  Васильківський (Київська) район",
    "census2018": 57845,
-   "ADM2_PCODE": "UA32214"
+   "ADM2_PCODE": "UA32214",
+   "availability": "available"
  },
  {
    "Point": "  Вишгородський район",
    "census2018": 74318,
-   "ADM2_PCODE": "UA32218"
+   "ADM2_PCODE": "UA32218",
+   "availability": "available"
  },
  {
    "Point": "  Володарський район",
    "census2018": 17230,
-   "ADM2_PCODE": "UA32216"
+   "ADM2_PCODE": "UA32216",
+   "availability": "available"
  },
  {
    "Point": "  Згурівський район",
    "census2018": 16166,
-   "ADM2_PCODE": "UA32219"
+   "ADM2_PCODE": "UA32219",
+   "availability": "available"
  },
  {
    "Point": "  Іванківський район",
    "census2018": 29765,
-   "ADM2_PCODE": "UA32220"
+   "ADM2_PCODE": "UA32220",
+   "availability": "available"
  },
  {
    "Point": "  Кагарлицький район",
    "census2018": 33230,
-   "ADM2_PCODE": "UA32222"
+   "ADM2_PCODE": "UA32222",
+   "availability": "available"
  },
  {
    "Point": "  Києво-Святошинський район",
    "census2018": 187456,
-   "ADM2_PCODE": "UA32224"
+   "ADM2_PCODE": "UA32224",
+   "availability": "available"
  },
  {
    "Point": "  Макарівський район",
    "census2018": 36035,
-   "ADM2_PCODE": "UA32227"
+   "ADM2_PCODE": "UA32227",
+   "availability": "available"
  },
  {
    "Point": "  Миронівський район",
    "census2018": 33939,
-   "ADM2_PCODE": "UA32229"
+   "ADM2_PCODE": "UA32229",
+   "availability": "available"
  },
  {
    "Point": "  Обухівський район",
    "census2018": 35243,
-   "ADM2_PCODE": "UA32231"
+   "ADM2_PCODE": "UA32231",
+   "availability": "available"
  },
  {
    "Point": "  Переяслав-Хмельницький район",
    "census2018": 27758,
-   "ADM2_PCODE": "UA32233"
+   "ADM2_PCODE": "UA32233",
+   "availability": "available"
  },
  {
    "Point": "  Поліський район",
    "census2018": 5624,
-   "ADM2_PCODE": "UA32235"
+   "ADM2_PCODE": "UA32235",
+   "availability": "available"
  },
  {
    "Point": "  Рокитнянський район",
    "census2018": 26564,
-   "ADM2_PCODE": "UA32237"
+   "ADM2_PCODE": "UA32237",
+   "availability": "available"
  },
  {
    "Point": "  Сквирський район",
    "census2018": 36896,
-   "ADM2_PCODE": "UA32240"
+   "ADM2_PCODE": "UA32240",
+   "availability": "available"
  },
  {
    "Point": "  Ставищенський район",
    "census2018": 21801,
-   "ADM2_PCODE": "UA32242"
+   "ADM2_PCODE": "UA32242",
+   "availability": "available"
  },
  {
    "Point": "  Таращанський район",
    "census2018": 27643,
-   "ADM2_PCODE": "UA32244"
+   "ADM2_PCODE": "UA32244",
+   "availability": "available"
  },
  {
    "Point": "  Тетіївський район",
    "census2018": 31718,
-   "ADM2_PCODE": "UA32246"
+   "ADM2_PCODE": "UA32246",
+   "availability": "available"
  },
  {
    "Point": "  Фастівський район",
    "census2018": 30789,
-   "ADM2_PCODE": "UA32249"
+   "ADM2_PCODE": "UA32249",
+   "availability": "available"
  },
  {
    "Point": "  Яготинський район",
    "census2018": 32589,
-   "ADM2_PCODE": "UA32255"
+   "ADM2_PCODE": "UA32255",
+   "availability": "available"
  },
  {
    "Point": "Кіровоградська область",
    "census2018": 956250,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 603049,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 353201,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Кіровоград (міськрада)",
    "census2018": 237175,
-   "ADM2_PCODE": "UA35101"
+   "ADM2_PCODE": "UA35101",
+   "availability": "available"
  },
  {
    "Point": "  Знам'янка (міськрада)",
    "census2018": 28004,
-   "ADM2_PCODE": "UA35106"
+   "ADM2_PCODE": "UA35106",
+   "availability": "available"
  },
  {
    "Point": "  Олександрія (міськрада)",
    "census2018": 89847,
-   "ADM2_PCODE": "UA35203"
+   "ADM2_PCODE": "UA35103",
+   "availability": "available"
  },
  {
    "Point": "  Світловодськ (міськрада)",
    "census2018": 52745,
-   "ADM2_PCODE": "UA35109"
+   "ADM2_PCODE": "UA35109",
+   "availability": "available"
  },
  {
    "Point": "  Бобринецький район",
    "census2018": 25448,
-   "ADM2_PCODE": "UA35208"
+   "ADM2_PCODE": "UA35208",
+   "availability": "available"
  },
  {
    "Point": "  Вільшанський район",
    "census2018": 12417,
-   "ADM2_PCODE": "UA35243"
+   "ADM2_PCODE": "UA35243",
+   "availability": "available"
  },
  {
    "Point": "  Гайворонський район",
    "census2018": 37254,
-   "ADM2_PCODE": "UA35211"
+   "ADM2_PCODE": "UA35211",
+   "availability": "available"
  },
  {
    "Point": "  Голованівський район",
    "census2018": 30400,
-   "ADM2_PCODE": "UA35214"
+   "ADM2_PCODE": "UA35214",
+   "availability": "available"
  },
  {
    "Point": "  Добровеличківський район",
    "census2018": 33434,
-   "ADM2_PCODE": "UA35217"
+   "ADM2_PCODE": "UA35217",
+   "availability": "available"
  },
  {
    "Point": "  Долинський (Кіровоградська) район",
    "census2018": 33546,
-   "ADM2_PCODE": "UA35219"
+   "ADM2_PCODE": "UA35219",
+   "availability": "available"
  },
  {
    "Point": "  Знам'янський район",
    "census2018": 22426,
-   "ADM2_PCODE": "UA35222"
+   "ADM2_PCODE": "UA35222",
+   "availability": "available"
  },
  {
    "Point": "  Кіровоградський район",
    "census2018": 36833,
-   "ADM2_PCODE": "UA35225"
+   "ADM2_PCODE": "UA35225",
+   "availability": "available"
  },
  {
    "Point": "  Компаніївський район",
    "census2018": 15131,
-   "ADM2_PCODE": "UA35228"
+   "ADM2_PCODE": "UA35228",
+   "availability": "available"
  },
  {
    "Point": "  Маловисківський район",
    "census2018": 42377,
-   "ADM2_PCODE": "UA35231"
+   "ADM2_PCODE": "UA35231",
+   "availability": "available"
  },
  {
    "Point": "  Новгородківський район",
    "census2018": 15403,
-   "ADM2_PCODE": "UA35234"
+   "ADM2_PCODE": "UA35234",
+   "availability": "available"
  },
  {
    "Point": "  Новоархангельський район",
    "census2018": 24167,
-   "ADM2_PCODE": "UA35236"
+   "ADM2_PCODE": "UA35236",
+   "availability": "available"
  },
  {
    "Point": "  Новомиргородський район",
    "census2018": 28203,
-   "ADM2_PCODE": "UA35238"
+   "ADM2_PCODE": "UA35238",
+   "availability": "available"
  },
  {
    "Point": "  Новоукраїнський район",
    "census2018": 41092,
-   "ADM2_PCODE": "UA35240"
+   "ADM2_PCODE": "UA35240",
+   "availability": "available"
  },
  {
    "Point": "  Олександрівський (Кіровоградська) район",
    "census2018": 26802,
-   "ADM2_PCODE": "UA35205"
+   "ADM2_PCODE": "UA35205",
+   "availability": "available"
  },
  {
    "Point": "  Олександрійський район",
    "census2018": 34683,
-   "ADM2_PCODE": "UA35203"
+   "ADM2_PCODE": "UA35203",
+   "availability": "available"
  },
  {
    "Point": "  Онуфріївський район",
    "census2018": 17767,
-   "ADM2_PCODE": "UA35246"
+   "ADM2_PCODE": "UA35246",
+   "availability": "available"
  },
  {
    "Point": "  Петрівський район",
    "census2018": 23671,
-   "ADM2_PCODE": "UA35249"
+   "ADM2_PCODE": "UA35249",
+   "availability": "available"
  },
  {
    "Point": "  Світловодський район",
    "census2018": 12055,
-   "ADM2_PCODE": "UA35252"
+   "ADM2_PCODE": "UA35252",
+   "availability": "available"
  },
  {
    "Point": "  Благовіщенський район",
    "census2018": 22436,
-   "ADM2_PCODE": "UA35255"
+   "ADM2_PCODE": "UA35255",
+   "availability": "available"
  },
  {
    "Point": "  Устинівський район",
    "census2018": 12934,
-   "ADM2_PCODE": "UA35258"
+   "ADM2_PCODE": "UA35258",
+   "availability": "available"
  },
  {
    "Point": "Луганська область",
    "census2018": 2167802,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 1884722,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 283080,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Луганськ (міськрада)",
    "census2018": 432777,
-   "ADM2_PCODE": "UA44101"
+   "ADM2_PCODE": "UA44101",
+   "availability": "available"
  },
  {
    "Point": "  м. Алчевськ",
    "census2018": 108024,
-   "ADM2_PCODE": "UA44112"
+   "ADM2_PCODE": "UA44112",
+   "availability": "available"
  },
  {
    "Point": "  Антрацит (міськрада)",
    "census2018": 75747,
-   "ADM2_PCODE": "UA44103"
+   "ADM2_PCODE": "UA44103",
+   "availability": "available"
  },
  {
    "Point": "  Брянка (міськрада)",
    "census2018": 51615,
-   "ADM2_PCODE": "UA44105"
+   "ADM2_PCODE": "UA44105",
+   "availability": "available"
  },
  {
    "Point": "  Кіровськ (міськрада)",
    "census2018": 32571,
-   "ADM2_PCODE": "UA44110"
+   "ADM2_PCODE": "UA44110",
+   "availability": "available"
  },
  {
    "Point": "  Красний Луч (міськрада)",
    "census2018": 120395,
-   "ADM2_PCODE": "UA44116"
+   "ADM2_PCODE": "UA44116",
+   "availability": "available"
  },
  {
    "Point": "  Краснодон (міськрада)",
    "census2018": 101562,
-   "ADM2_PCODE": "UA44114"
+   "ADM2_PCODE": "UA44114",
+   "availability": "available"
  },
  {
    "Point": "  Лисичанськ (міськрада)",
    "census2018": 112574,
-   "ADM2_PCODE": "UA44118"
+   "ADM2_PCODE": "UA44118",
+   "availability": "available"
  },
  {
    "Point": "  м. Первомайськ",
    "census2018": 37078,
-   "ADM2_PCODE": "UA44121"
+   "ADM2_PCODE": "UA44121",
+   "availability": "available"
  },
  {
    "Point": "  Ровеньки (міськрада)",
    "census2018": 81777,
-   "ADM2_PCODE": "UA44123"
+   "ADM2_PCODE": "UA44123",
+   "availability": "available"
  },
  {
    "Point": "  м. Рубіжне",
    "census2018": 57763,
-   "ADM2_PCODE": "UA44125"
+   "ADM2_PCODE": "UA44125",
+   "availability": "available"
  },
  {
    "Point": "  Свердловськ (міськрада)",
    "census2018": 95990,
-   "ADM2_PCODE": "UA44127"
+   "ADM2_PCODE": "UA44127",
+   "availability": "available"
  },
  {
    "Point": "  Сєвєродонецьк (міськрада)",
    "census2018": 114662,
-   "ADM2_PCODE": "UA44129"
+   "ADM2_PCODE": "UA44129",
+   "availability": "available"
  },
  {
    "Point": "  Стаханов (міськрада)",
    "census2018": 88755,
-   "ADM2_PCODE": "UA44131"
+   "ADM2_PCODE": "UA44131",
+   "availability": "available"
  },
  {
    "Point": "  Антрацитівський район",
    "census2018": 30233,
-   "ADM2_PCODE": "UA44203"
+   "ADM2_PCODE": "UA44203",
+   "availability": "available"
  },
  {
    "Point": "  Біловодський район",
    "census2018": 23359,
-   "ADM2_PCODE": "UA44206"
+   "ADM2_PCODE": "UA44206",
+   "availability": "available"
  },
  {
    "Point": "  Білокуракинський район",
    "census2018": 18883,
-   "ADM2_PCODE": "UA44209"
+   "ADM2_PCODE": "UA44209",
+   "availability": "available"
  },
  {
    "Point": "  Сорокинський район ",
    "census2018": 29123,
-   "ADM2_PCODE": "UA44214"
+   "ADM2_PCODE": "UA44214",
+   "availability": "available"
  },
  {
    "Point": "  Кремінський район",
    "census2018": 39100,
-   "ADM2_PCODE": "UA44216"
+   "ADM2_PCODE": "UA44216",
+   "availability": "available"
  },
  {
    "Point": "  Лутугинський район",
    "census2018": 65721,
-   "ADM2_PCODE": "UA44222"
+   "ADM2_PCODE": "UA44222",
+   "availability": "available"
  },
  {
    "Point": "  Марківський район",
    "census2018": 14675,
-   "ADM2_PCODE": "UA44225"
+   "ADM2_PCODE": "UA44225",
+   "availability": "available"
  },
  {
    "Point": "  Міловський район",
    "census2018": 15112,
-   "ADM2_PCODE": "UA44228"
+   "ADM2_PCODE": "UA44228",
+   "availability": "available"
  },
  {
    "Point": "  Новоайдарський район",
    "census2018": 40793,
-   "ADM2_PCODE": "UA44231"
+   "ADM2_PCODE": "UA44231",
+   "availability": "available"
  },
  {
    "Point": "  Новопсковський район",
    "census2018": 33873,
-   "ADM2_PCODE": "UA44233"
+   "ADM2_PCODE": "UA44233",
+   "availability": "available"
  },
  {
    "Point": "  Перевальський район",
    "census2018": 63643,
-   "ADM2_PCODE": "UA44236"
+   "ADM2_PCODE": "UA44236",
+   "availability": "available"
  },
  {
    "Point": "  Попаснянський район",
    "census2018": 76228,
-   "ADM2_PCODE": "UA44238"
+   "ADM2_PCODE": "UA44238",
+   "availability": "available"
  },
  {
    "Point": "  Сватівський район",
    "census2018": 34398,
-   "ADM2_PCODE": "UA44240"
+   "ADM2_PCODE": "UA44240",
+   "availability": "available"
  },
  {
    "Point": "  Довжанський район ",
    "census2018": 11716,
-   "ADM2_PCODE": "UA44242"
+   "ADM2_PCODE": "UA44242",
+   "availability": "available"
  },
  {
    "Point": "  Слов'яносербський район",
    "census2018": 48629,
-   "ADM2_PCODE": "UA44245"
+   "ADM2_PCODE": "UA44245",
+   "availability": "available"
  },
  {
    "Point": "  Станично-Луганський район",
    "census2018": 47772,
-   "ADM2_PCODE": "UA44248"
+   "ADM2_PCODE": "UA44248",
+   "availability": "available"
  },
  {
    "Point": "  Старобільський район",
    "census2018": 43691,
-   "ADM2_PCODE": "UA44251"
+   "ADM2_PCODE": "UA44251",
+   "availability": "available"
  },
  {
    "Point": "  Троїцький район",
    "census2018": 19563,
-   "ADM2_PCODE": "UA44254"
+   "ADM2_PCODE": "UA44254",
+   "availability": "available"
  },
  {
    "Point": "Львівська область",
    "census2018": 2529608,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 1542118,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 987490,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Львів (міськрада)",
    "census2018": 757883,
-   "ADM2_PCODE": "UA46101"
+   "ADM2_PCODE": "UA46101",
+   "availability": "available"
  },
  {
    "Point": "  Борислав (міськрада)",
    "census2018": 36099,
-   "ADM2_PCODE": "UA46103"
+   "ADM2_PCODE": "UA46103",
+   "availability": "available"
  },
  {
    "Point": "  Дрогобич (міськрада)",
    "census2018": 97159,
-   "ADM2_PCODE": "UA46212"
+   "ADM2_PCODE": "UA46106",
+   "availability": "available"
  },
  {
    "Point": "  м. Моршин",
    "census2018": 5826,
-   "ADM2_PCODE": "UA46107"
+   "ADM2_PCODE": "UA46107",
+   "availability": "available"
  },
  {
    "Point": "  м. Новий Розділ",
    "census2018": 28687,
-   "ADM2_PCODE": "UA46108"
+   "ADM2_PCODE": "UA46108",
+   "availability": "available"
  },
  {
    "Point": "  м. Самбір",
    "census2018": 34859,
-   "ADM2_PCODE": "UA46109"
+   "ADM2_PCODE": "UA46109",
+   "availability": "available"
  },
  {
    "Point": "  м. Стрий",
    "census2018": 59099,
-   "ADM2_PCODE": "UA46112"
+   "ADM2_PCODE": "UA46112",
+   "availability": "available"
  },
  {
    "Point": "  м. Трускавець",
    "census2018": 28792,
-   "ADM2_PCODE": "UA46115"
+   "ADM2_PCODE": "UA46115",
+   "availability": "available"
  },
  {
    "Point": "  Червоноград (міськрада)",
    "census2018": 80930,
-   "ADM2_PCODE": "UA46118"
+   "ADM2_PCODE": "UA46118",
+   "availability": "available"
  },
  {
    "Point": "  Бродівський район",
    "census2018": 58522,
-   "ADM2_PCODE": "UA46203"
+   "ADM2_PCODE": "UA46203",
+   "availability": "available"
  },
  {
    "Point": "  Буський район",
    "census2018": 46435,
-   "ADM2_PCODE": "UA46206"
+   "ADM2_PCODE": "UA46206",
+   "availability": "available"
  },
  {
    "Point": "  Городоцький (Львівська) район",
    "census2018": 68910,
-   "ADM2_PCODE": "UA46209"
+   "ADM2_PCODE": "UA46209",
+   "availability": "available"
  },
  {
    "Point": "  Дрогобицький район",
    "census2018": 74471,
-   "ADM2_PCODE": "UA46212"
+   "ADM2_PCODE": "UA46212",
+   "availability": "available"
  },
  {
    "Point": "  Жидачівський район",
    "census2018": 67034,
-   "ADM2_PCODE": "UA46215"
+   "ADM2_PCODE": "UA46215",
+   "availability": "available"
  },
  {
    "Point": "  Жовківський район",
    "census2018": 110371,
-   "ADM2_PCODE": "UA46227"
+   "ADM2_PCODE": "UA46227",
+   "availability": "available"
  },
  {
    "Point": "  Золочівський (Львівська) район",
    "census2018": 69188,
-   "ADM2_PCODE": "UA46218"
+   "ADM2_PCODE": "UA46218",
+   "availability": "available"
  },
  {
    "Point": "  Кам'янка-Бузький район",
    "census2018": 57378,
-   "ADM2_PCODE": "UA46221"
+   "ADM2_PCODE": "UA46221",
+   "availability": "available"
  },
  {
    "Point": "  Миколаївський (Львівська) район",
    "census2018": 63175,
-   "ADM2_PCODE": "UA46230"
+   "ADM2_PCODE": "UA46230",
+   "availability": "available"
  },
  {
    "Point": "  Мостиський район",
    "census2018": 56881,
-   "ADM2_PCODE": "UA46224"
+   "ADM2_PCODE": "UA46224",
+   "availability": "available"
  },
  {
    "Point": "  Перемишлянський район",
    "census2018": 38517,
-   "ADM2_PCODE": "UA46233"
+   "ADM2_PCODE": "UA46233",
+   "availability": "available"
  },
  {
    "Point": "  Пустомитівський район",
    "census2018": 119255,
-   "ADM2_PCODE": "UA46236"
+   "ADM2_PCODE": "UA46236",
+   "availability": "available"
  },
  {
    "Point": "  Радехівський район",
    "census2018": 47450,
-   "ADM2_PCODE": "UA46239"
+   "ADM2_PCODE": "UA46239",
+   "availability": "available"
  },
  {
    "Point": "  Самбірський район",
    "census2018": 67881,
-   "ADM2_PCODE": "UA46242"
+   "ADM2_PCODE": "UA46242",
+   "availability": "available"
  },
  {
    "Point": "  Сколівський район",
    "census2018": 47473,
-   "ADM2_PCODE": "UA46245"
+   "ADM2_PCODE": "UA46245",
+   "availability": "available"
  },
  {
    "Point": "  Сокальський район",
    "census2018": 92066,
-   "ADM2_PCODE": "UA46248"
+   "ADM2_PCODE": "UA46248",
+   "availability": "available"
  },
  {
    "Point": "  Старосамбірський район",
    "census2018": 77502,
-   "ADM2_PCODE": "UA46251"
+   "ADM2_PCODE": "UA46251",
+   "availability": "available"
  },
  {
    "Point": "  Стрийський район",
    "census2018": 61882,
-   "ADM2_PCODE": "UA46253"
+   "ADM2_PCODE": "UA46253",
+   "availability": "available"
  },
  {
    "Point": "  Турківський район",
    "census2018": 49604,
-   "ADM2_PCODE": "UA46255"
+   "ADM2_PCODE": "UA46255",
+   "availability": "available"
  },
  {
    "Point": "  Яворівський район",
    "census2018": 126279,
-   "ADM2_PCODE": "UA46258"
+   "ADM2_PCODE": "UA46258",
+   "availability": "available"
  },
  {
    "Point": "Миколаївська область",
    "census2018": 1141324,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 779706,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 361618,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Миколаїв",
    "census2018": 486255,
-   "ADM2_PCODE": "UA48101"
+   "ADM2_PCODE": "UA48101",
+   "availability": "available"
  },
  {
    "Point": "  м. Вознесенськ ",
    "census2018": 35065,
-   "ADM2_PCODE": "UA48102"
+   "ADM2_PCODE": "UA48102",
+   "availability": "available"
  },
  {
    "Point": "  м. Очаків",
    "census2018": 14198,
-   "ADM2_PCODE": "UA48103"
+   "ADM2_PCODE": "UA48103",
+   "availability": "available"
  },
  {
    "Point": "  м. Первомайськ",
    "census2018": 65607,
-   "ADM2_PCODE": "UA48104"
+   "ADM2_PCODE": "UA48104",
+   "availability": "available"
  },
  {
    "Point": "  м. Южноукраїнськ",
    "census2018": 39830,
-   "ADM2_PCODE": "UA48108"
+   "ADM2_PCODE": "UA48108",
+   "availability": "available"
  },
  {
    "Point": "  Арбузинський район",
    "census2018": 19834,
-   "ADM2_PCODE": "UA48203"
+   "ADM2_PCODE": "UA48203",
+   "availability": "available"
  },
  {
    "Point": "  Баштанський район",
    "census2018": 37312,
-   "ADM2_PCODE": "UA48206"
+   "ADM2_PCODE": "UA48206",
+   "availability": "available"
  },
  {
    "Point": "  Березанський район",
    "census2018": 23016,
-   "ADM2_PCODE": "UA48209"
+   "ADM2_PCODE": "UA48209",
+   "availability": "available"
  },
  {
    "Point": "  Березнегуватський район",
    "census2018": 20065,
-   "ADM2_PCODE": "UA48211"
+   "ADM2_PCODE": "UA48211",
+   "availability": "available"
  },
  {
    "Point": "  Братський район",
    "census2018": 17645,
-   "ADM2_PCODE": "UA48214"
+   "ADM2_PCODE": "UA48214",
+   "availability": "available"
  },
  {
    "Point": "  Веселинівський район",
    "census2018": 22711,
-   "ADM2_PCODE": "UA48217"
+   "ADM2_PCODE": "UA48217",
+   "availability": "available"
  },
  {
    "Point": "  Вознесенський район",
    "census2018": 29984,
-   "ADM2_PCODE": "UA48220"
+   "ADM2_PCODE": "UA48220",
+   "availability": "available"
  },
  {
    "Point": "  Врадіївський район",
    "census2018": 17262,
-   "ADM2_PCODE": "UA48223"
+   "ADM2_PCODE": "UA48223",
+   "availability": "available"
  },
  {
    "Point": "  Доманівський район",
    "census2018": 25090,
-   "ADM2_PCODE": "UA48227"
+   "ADM2_PCODE": "UA48227",
+   "availability": "available"
  },
  {
    "Point": "  Єланецький район",
    "census2018": 15277,
-   "ADM2_PCODE": "UA48230"
+   "ADM2_PCODE": "UA48230",
+   "availability": "available"
  },
  {
    "Point": "  Вітовський район",
    "census2018": 50191,
-   "ADM2_PCODE": "UA48233"
+   "ADM2_PCODE": "UA48233",
+   "availability": "available"
  },
  {
    "Point": "  Казанківський район",
    "census2018": 19363,
-   "ADM2_PCODE": "UA48236"
+   "ADM2_PCODE": "UA48236",
+   "availability": "available"
  },
  {
    "Point": "  Кривоозерський район",
    "census2018": 24361,
-   "ADM2_PCODE": "UA48239"
+   "ADM2_PCODE": "UA48239",
+   "availability": "available"
  },
  {
    "Point": "  Миколаївський район",
    "census2018": 30005,
-   "ADM2_PCODE": "UA46230"
+   "ADM2_PCODE": "UA46230",
+   "availability": "available"
  },
  {
    "Point": "  Миколаївський район",
    "census2018": 30005,
-   "ADM2_PCODE": "UA51235"
+   "ADM2_PCODE": "UA51235",
+   "availability": "available"
  },
  {
    "Point": "  Миколаївський район",
    "census2018": 30005,
-   "ADM2_PCODE": "UA48242"
+   "ADM2_PCODE": "UA48242",
+   "availability": "available"
  },
  {
    "Point": "  Новобузький район",
    "census2018": 30594,
-   "ADM2_PCODE": "UA48245"
+   "ADM2_PCODE": "UA48245",
+   "availability": "available"
  },
  {
    "Point": "  Новоодеський район",
    "census2018": 33132,
-   "ADM2_PCODE": "UA48248"
+   "ADM2_PCODE": "UA48248",
+   "availability": "available"
  },
  {
    "Point": "  Очаківський(1) район",
    "census2018": 8000,
-   "ADM2_PCODE": "UA48251"
+   "ADM2_PCODE": "UA48251",
+   "availability": "available"
  },
  {
    "Point": "  Очаківський(2) район",
    "census2018": 7230,
-   "ADM2_PCODE": "UA48251"
+   "ADM2_PCODE": "UA48251",
+   "availability": "available"
  },
  {
    "Point": "  Первомайський (Миколаївська) район",
    "census2018": 29550,
-   "ADM2_PCODE": "UA48254"
+   "ADM2_PCODE": "UA48254",
+   "availability": "available"
  },
  {
    "Point": "  Снігурівський район",
    "census2018": 39747,
-   "ADM2_PCODE": "UA48257"
+   "ADM2_PCODE": "UA48257",
+   "availability": "available"
  },
  {
    "Point": "Одеська область",
    "census2018": 2383075,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 1594905,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 788170,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Одеса",
    "census2018": 1011494,
-   "ADM2_PCODE": "UA51101"
+   "ADM2_PCODE": "UA51101",
+   "availability": "available"
  },
  {
    "Point": "  Балта (міськрада) ",
    "census2018": 32091,
-   "ADM2_PCODE": "UA51102"
+   "ADM2_PCODE": "UA51102",
+   "availability": "available"
  },
  {
    "Point": "  Біляївка (міськрада)",
    "census2018": 13961,
-   "ADM2_PCODE": "UA51105"
+   "ADM2_PCODE": "UA51105",
+   "availability": "available"
  },
  {
    "Point": "  Білгород-Дністровський (міськрада)",
    "census2018": 56241,
-   "ADM2_PCODE": "UA51103"
+   "ADM2_PCODE": "UA51103",
+   "availability": "available"
  },
  {
    "Point": "  м. Ізмаїл",
    "census2018": 71594,
-   "ADM2_PCODE": "UA51106"
+   "ADM2_PCODE": "UA51106",
+   "availability": "available"
  },
  {
    "Point": "  Іллічівськ (міськрада)",
    "census2018": 72338,
-   "ADM2_PCODE": "UA51108"
+   "ADM2_PCODE": "UA51108",
+   "availability": "available"
  },
  {
    "Point": "  м. Подільськ ",
    "census2018": 40710,
-   "ADM2_PCODE": "UA51112"
+   "ADM2_PCODE": "UA51112",
+   "availability": "available"
  },
  {
    "Point": "  м. Теплодар",
    "census2018": 10234,
-   "ADM2_PCODE": "UA51115"
+   "ADM2_PCODE": "UA51115",
+   "availability": "available"
  },
  {
    "Point": "  м. Южне",
    "census2018": 32369,
-   "ADM2_PCODE": "UA51117"
+   "ADM2_PCODE": "UA51117",
+   "availability": "available"
  },
  {
    "Point": "  Ананьївський район",
    "census2018": 26305,
-   "ADM2_PCODE": "UA51202"
+   "ADM2_PCODE": "UA51202",
+   "availability": "available"
  },
  {
    "Point": "  Арцизький район",
    "census2018": 44826,
-   "ADM2_PCODE": "UA51204"
+   "ADM2_PCODE": "UA51204",
+   "availability": "available"
  },
  {
    "Point": "  Балтський район",
    "census2018": 8565,
-   "ADM2_PCODE": "UA51206"
+   "ADM2_PCODE": "UA51206",
+   "availability": "available"
  },
  {
    "Point": "  Березівський район",
    "census2018": 33403,
-   "ADM2_PCODE": "UA51212"
+   "ADM2_PCODE": "UA51212",
+   "availability": "available"
  },
  {
    "Point": "  Білгород-Дністровський район",
    "census2018": 60254,
-   "ADM2_PCODE": "UA51208"
+   "ADM2_PCODE": "UA51208",
+   "availability": "available"
  },
  {
    "Point": "  Біляївський район",
    "census2018": 80863,
-   "ADM2_PCODE": "UA51210"
+   "ADM2_PCODE": "UA51210",
+   "availability": "available"
  },
  {
    "Point": "  Болградський район",
    "census2018": 67976,
-   "ADM2_PCODE": "UA51214"
+   "ADM2_PCODE": "UA51214",
+   "availability": "available"
  },
  {
    "Point": "  Великомихайлівський район",
    "census2018": 30632,
-   "ADM2_PCODE": "UA51216"
+   "ADM2_PCODE": "UA51216",
+   "availability": "available"
  },
  {
    "Point": "  Іванівський (Одеська) район",
    "census2018": 26278,
-   "ADM2_PCODE": "UA51218"
+   "ADM2_PCODE": "UA51218",
+   "availability": "available"
  },
  {
    "Point": "  Ізмаїльський район",
    "census2018": 51325,
-   "ADM2_PCODE": "UA51220"
+   "ADM2_PCODE": "UA51220",
+   "availability": "available"
  },
  {
    "Point": "  Кілійський район",
    "census2018": 51541,
-   "ADM2_PCODE": "UA51223"
+   "ADM2_PCODE": "UA51223",
+   "availability": "available"
  },
  {
    "Point": "  Кодимський район",
    "census2018": 28909,
-   "ADM2_PCODE": "UA51225"
+   "ADM2_PCODE": "UA51225",
+   "availability": "available"
  },
  {
    "Point": "  Лиманський (Одеська) район ",
    "census2018": 70801,
-   "ADM2_PCODE": "UA51227"
+   "ADM2_PCODE": "UA51227",
+   "availability": "available"
  },
  {
    "Point": "  Подільський район ",
    "census2018": 26185,
-   "ADM2_PCODE": "UA51229"
+   "ADM2_PCODE": "UA51229",
+   "availability": "available"
  },
  {
    "Point": "  Окнянський район",
    "census2018": 19969,
-   "ADM2_PCODE": "UA51231"
+   "ADM2_PCODE": "UA51231",
+   "availability": "available"
  },
  {
    "Point": "  Любашівський район",
    "census2018": 30048,
-   "ADM2_PCODE": "UA51233"
+   "ADM2_PCODE": "UA51233",
+   "availability": "available"
  },
  {
    "Point": "  Миколаївський (Одеська) район",
    "census2018": 15897,
-   "ADM2_PCODE": "UA51235"
+   "ADM2_PCODE": "UA51235",
+   "availability": "available"
  },
  {
    "Point": "  Овідіопольський район",
    "census2018": 83411,
-   "ADM2_PCODE": "UA51237"
+   "ADM2_PCODE": "UA51237",
+   "availability": "available"
  },
  {
    "Point": "  Ренійський район",
    "census2018": 36903,
-   "ADM2_PCODE": "UA51241"
+   "ADM2_PCODE": "UA51241",
+   "availability": "available"
  },
  {
    "Point": "  Роздільнянський район",
    "census2018": 57894,
-   "ADM2_PCODE": "UA51239"
+   "ADM2_PCODE": "UA51239",
+   "availability": "available"
  },
  {
    "Point": "  Савранський район",
    "census2018": 18694,
-   "ADM2_PCODE": "UA51243"
+   "ADM2_PCODE": "UA51243",
+   "availability": "available"
  },
  {
    "Point": "  Саратський район",
    "census2018": 44808,
-   "ADM2_PCODE": "UA51245"
+   "ADM2_PCODE": "UA51245",
+   "availability": "available"
  },
  {
    "Point": "  Тарутинський район",
    "census2018": 40976,
-   "ADM2_PCODE": "UA51247"
+   "ADM2_PCODE": "UA51247",
+   "availability": "available"
  },
  {
    "Point": "  Татарбунарський район",
    "census2018": 38685,
-   "ADM2_PCODE": "UA51250"
+   "ADM2_PCODE": "UA51250",
+   "availability": "available"
  },
  {
    "Point": "  Захарівський район",
    "census2018": 20082,
-   "ADM2_PCODE": "UA51252"
+   "ADM2_PCODE": "UA51252",
+   "availability": "available"
  },
  {
    "Point": "  Ширяївський район",
    "census2018": 26813,
-   "ADM2_PCODE": "UA51254"
+   "ADM2_PCODE": "UA51254",
+   "availability": "available"
  },
  {
    "Point": "Полтавська область",
    "census2018": 1413829,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 878939,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 534890,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Полтава",
    "census2018": 289544,
-   "ADM2_PCODE": "UA53101"
+   "ADM2_PCODE": "UA53101",
+   "availability": "available"
  },
  {
    "Point": "  м. Гадяч",
    "census2018": 23790,
-   "ADM2_PCODE": "UA53103"
+   "ADM2_PCODE": "UA53103",
+   "availability": "available"
  },
  {
    "Point": " Горішні Плавні (міськрада)  ",
    "census2018": 54078,
-   "ADM2_PCODE": "UA53102"
+   "ADM2_PCODE": "UA53102",
+   "availability": "available"
  },
  {
    "Point": "  м. Кременчук",
    "census2018": 221251,
-   "ADM2_PCODE": "UA53104"
+   "ADM2_PCODE": "UA53104",
+   "availability": "available"
  },
  {
    "Point": "  м. Лубни",
    "census2018": 45706,
-   "ADM2_PCODE": "UA53107"
+   "ADM2_PCODE": "UA53107",
+   "availability": "available"
  },
  {
    "Point": "  м. Миргород",
    "census2018": 39836,
-   "ADM2_PCODE": "UA53109"
+   "ADM2_PCODE": "UA53109",
+   "availability": "available"
  },
  {
    "Point": "  Великобагачанський район",
    "census2018": 24342,
-   "ADM2_PCODE": "UA53202"
+   "ADM2_PCODE": "UA53202",
+   "availability": "available"
  },
  {
    "Point": "  Гадяцький район",
    "census2018": 28574,
-   "ADM2_PCODE": "UA53204"
+   "ADM2_PCODE": "UA53204",
+   "availability": "available"
  },
  {
    "Point": "  Глобинський район",
    "census2018": 42734,
-   "ADM2_PCODE": "UA53206"
+   "ADM2_PCODE": "UA53206",
+   "availability": "available"
  },
  {
    "Point": "  Гребінківський район",
    "census2018": 22182,
-   "ADM2_PCODE": "UA53208"
+   "ADM2_PCODE": "UA53208",
+   "availability": "available"
  },
  {
    "Point": "  Диканський район",
    "census2018": 18696,
-   "ADM2_PCODE": "UA53210"
+   "ADM2_PCODE": "UA53210",
+   "availability": "available"
  },
  {
    "Point": "  Зіньківський район",
    "census2018": 33815,
-   "ADM2_PCODE": "UA53213"
+   "ADM2_PCODE": "UA53213",
+   "availability": "available"
  },
  {
    "Point": "  Карлівський район",
    "census2018": 33441,
-   "ADM2_PCODE": "UA53216"
+   "ADM2_PCODE": "UA53216",
+   "availability": "available"
  },
  {
    "Point": "  Кобеляцький район",
    "census2018": 41374,
-   "ADM2_PCODE": "UA53218"
+   "ADM2_PCODE": "UA53218",
+   "availability": "available"
  },
  {
    "Point": "  Козельщинський район",
    "census2018": 19000,
-   "ADM2_PCODE": "UA53220"
+   "ADM2_PCODE": "UA53220",
+   "availability": "available"
  },
  {
    "Point": "  Котелевський район",
    "census2018": 19417,
-   "ADM2_PCODE": "UA53222"
+   "ADM2_PCODE": "UA53222",
+   "availability": "available"
  },
  {
    "Point": "  Кременчуцький район",
    "census2018": 39510,
-   "ADM2_PCODE": "UA53224"
+   "ADM2_PCODE": "UA53224",
+   "availability": "available"
  },
  {
    "Point": "  Лохвицький район",
    "census2018": 41922,
-   "ADM2_PCODE": "UA53226"
+   "ADM2_PCODE": "UA53226",
+   "availability": "available"
  },
  {
    "Point": "  Лубенський район",
    "census2018": 31072,
-   "ADM2_PCODE": "UA53228"
+   "ADM2_PCODE": "UA53228",
+   "availability": "available"
  },
  {
    "Point": "  Машівський район",
    "census2018": 19160,
-   "ADM2_PCODE": "UA53230"
+   "ADM2_PCODE": "UA53230",
+   "availability": "available"
  },
  {
    "Point": "  Миргородський район",
    "census2018": 30902,
-   "ADM2_PCODE": "UA53232"
+   "ADM2_PCODE": "UA53232",
+   "availability": "available"
  },
  {
    "Point": "  Новосанжарський район",
    "census2018": 33752,
-   "ADM2_PCODE": "UA53234"
+   "ADM2_PCODE": "UA53234",
+   "availability": "available"
  },
  {
    "Point": "  Оржицький район",
    "census2018": 23504,
-   "ADM2_PCODE": "UA53236"
+   "ADM2_PCODE": "UA53236",
+   "availability": "available"
  },
  {
    "Point": "  Пирятинський район",
    "census2018": 30982,
-   "ADM2_PCODE": "UA53238"
+   "ADM2_PCODE": "UA53238",
+   "availability": "available"
  },
  {
    "Point": "  Полтавський район",
    "census2018": 67339,
-   "ADM2_PCODE": "UA53240"
+   "ADM2_PCODE": "UA53240",
+   "availability": "available"
  },
  {
    "Point": "  Решетилівський район",
    "census2018": 26043,
-   "ADM2_PCODE": "UA53242"
+   "ADM2_PCODE": "UA53242",
+   "availability": "available"
  },
  {
    "Point": "  Семенівський район",
    "census2018": 24615,
-   "ADM2_PCODE": "UA53245"
+   "ADM2_PCODE": "UA53245",
+   "availability": "available"
  },
  {
    "Point": "  Семенівський район",
    "census2018": 24615,
-   "ADM2_PCODE": "UA74247"
+   "ADM2_PCODE": "UA74247",
+   "availability": "available"
  },
  {
    "Point": "  Хорольський район",
    "census2018": 33715,
-   "ADM2_PCODE": "UA53248"
+   "ADM2_PCODE": "UA53248",
+   "availability": "available"
  },
  {
    "Point": "  Чорнухинський район",
    "census2018": 11055,
-   "ADM2_PCODE": "UA53251"
+   "ADM2_PCODE": "UA53251",
+   "availability": "available"
  },
  {
    "Point": "  Чутівський район",
    "census2018": 22467,
-   "ADM2_PCODE": "UA53254"
+   "ADM2_PCODE": "UA53254",
+   "availability": "available"
  },
  {
    "Point": "  Шишацький район",
    "census2018": 20011,
-   "ADM2_PCODE": "UA53257"
+   "ADM2_PCODE": "UA53257",
+   "availability": "available"
  },
  {
    "Point": "Рівненська область",
    "census2018": 1160647,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 550925,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 609722,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Рівне",
    "census2018": 246574,
-   "ADM2_PCODE": "UA56101"
+   "ADM2_PCODE": "UA56101",
+   "availability": "available"
  },
  {
    "Point": "  м. Дубно",
    "census2018": 37864,
-   "ADM2_PCODE": "UA56103"
+   "ADM2_PCODE": "UA56103",
+   "availability": "available"
  },
  {
    "Point": "  м. Вараш ",
    "census2018": 42401,
-   "ADM2_PCODE": "UA56107"
+   "ADM2_PCODE": "UA56107",
+   "availability": "available"
  },
  {
    "Point": "  м. Острог",
    "census2018": 15595,
-   "ADM2_PCODE": "UA56109"
+   "ADM2_PCODE": "UA56109",
+   "availability": "available"
  },
  {
    "Point": "  Березнівський район",
    "census2018": 64055,
-   "ADM2_PCODE": "UA56204"
+   "ADM2_PCODE": "UA56204",
+   "availability": "available"
  },
  {
    "Point": "  Володимирецький район",
    "census2018": 65272,
-   "ADM2_PCODE": "UA56208"
+   "ADM2_PCODE": "UA56208",
+   "availability": "available"
  },
  {
    "Point": "  Гощанський район",
    "census2018": 35060,
-   "ADM2_PCODE": "UA56212"
+   "ADM2_PCODE": "UA56212",
+   "availability": "available"
  },
  {
    "Point": "  Демидівський район",
    "census2018": 14462,
-   "ADM2_PCODE": "UA56214"
+   "ADM2_PCODE": "UA56214",
+   "availability": "available"
  },
  {
    "Point": "  Дубенський район",
    "census2018": 45351,
-   "ADM2_PCODE": "UA56216"
+   "ADM2_PCODE": "UA56216",
+   "availability": "available"
  },
  {
    "Point": "  Дубровицький район",
    "census2018": 47503,
-   "ADM2_PCODE": "UA56218"
+   "ADM2_PCODE": "UA56218",
+   "availability": "available"
  },
  {
    "Point": "  Зарічненський район",
    "census2018": 35115,
-   "ADM2_PCODE": "UA56222"
+   "ADM2_PCODE": "UA56222",
+   "availability": "available"
  },
  {
    "Point": "  Здолбунівський район",
    "census2018": 56737,
-   "ADM2_PCODE": "UA56226"
+   "ADM2_PCODE": "UA56226",
+   "availability": "available"
  },
  {
    "Point": "  Корецький район",
    "census2018": 33398,
-   "ADM2_PCODE": "UA56230"
+   "ADM2_PCODE": "UA56230",
+   "availability": "available"
  },
  {
    "Point": "  Костопільський район",
    "census2018": 64127,
-   "ADM2_PCODE": "UA56234"
+   "ADM2_PCODE": "UA56234",
+   "availability": "available"
  },
  {
    "Point": "  Млинівський район",
    "census2018": 37395,
-   "ADM2_PCODE": "UA56238"
+   "ADM2_PCODE": "UA56238",
+   "availability": "available"
  },
  {
    "Point": "  Острозький район",
    "census2018": 28455,
-   "ADM2_PCODE": "UA56242"
+   "ADM2_PCODE": "UA56242",
+   "availability": "available"
  },
  {
    "Point": "  Радивилівський район",
    "census2018": 37036,
-   "ADM2_PCODE": "UA56258"
+   "ADM2_PCODE": "UA56258",
+   "availability": "available"
  },
  {
    "Point": "  Рівненський район",
    "census2018": 92311,
-   "ADM2_PCODE": "UA56246"
+   "ADM2_PCODE": "UA56246",
+   "availability": "available"
  },
  {
    "Point": "  Рокитнівський район",
    "census2018": 57583,
-   "ADM2_PCODE": "UA56250"
+   "ADM2_PCODE": "UA56250",
+   "availability": "available"
  },
  {
    "Point": "  Сарненський район",
    "census2018": 104353,
-   "ADM2_PCODE": "UA56254"
+   "ADM2_PCODE": "UA56254",
+   "availability": "available"
  },
  {
    "Point": "Сумська область",
    "census2018": 1094284,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 754187,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 340097,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Суми (міськрада)",
    "census2018": 267343,
-   "ADM2_PCODE": "UA59101"
+   "ADM2_PCODE": "UA59101",
+   "availability": "available"
  },
  {
    "Point": "  Глухів (міськрада)",
    "census2018": 33478,
-   "ADM2_PCODE": "UA59103"
+   "ADM2_PCODE": "UA59103",
+   "availability": "available"
  },
  {
    "Point": "  Конотоп (міськрада)",
    "census2018": 91146,
-   "ADM2_PCODE": "UA59104"
+   "ADM2_PCODE": "UA59104",
+   "availability": "available"
  },
  {
    "Point": "  Лебедин (міськрада)",
    "census2018": 25790,
-   "ADM2_PCODE": "UA59105"
+   "ADM2_PCODE": "UA59105",
+   "availability": "available"
  },
  {
    "Point": "  Охтирка (міськрада)",
    "census2018": 48309,
-   "ADM2_PCODE": "UA59102"
+   "ADM2_PCODE": "UA59102",
+   "availability": "available"
  },
  {
    "Point": "  Ромни (міськрада)",
    "census2018": 40506,
-   "ADM2_PCODE": "UA59107"
+   "ADM2_PCODE": "UA59107",
+   "availability": "available"
  },
  {
    "Point": "  м. Шостка",
    "census2018": 75909,
-   "ADM2_PCODE": "UA59110"
+   "ADM2_PCODE": "UA59110",
+   "availability": "available"
  },
  {
    "Point": "  Білопільський район",
    "census2018": 49697,
-   "ADM2_PCODE": "UA59206"
+   "ADM2_PCODE": "UA59206",
+   "availability": "available"
  },
  {
    "Point": "  Буринський район",
    "census2018": 24193,
-   "ADM2_PCODE": "UA59209"
+   "ADM2_PCODE": "UA59209",
+   "availability": "available"
  },
  {
    "Point": "  Великописарівський район",
    "census2018": 18450,
-   "ADM2_PCODE": "UA59212"
+   "ADM2_PCODE": "UA59212",
+   "availability": "available"
  },
  {
    "Point": "  Глухівський район",
    "census2018": 22279,
-   "ADM2_PCODE": "UA59215"
+   "ADM2_PCODE": "UA59215",
+   "availability": "available"
  },
  {
    "Point": "  Конотопський район",
    "census2018": 28035,
-   "ADM2_PCODE": "UA59220"
+   "ADM2_PCODE": "UA59220",
+   "availability": "available"
  },
  {
    "Point": "  Краснопільський район",
    "census2018": 28040,
-   "ADM2_PCODE": "UA59223"
+   "ADM2_PCODE": "UA59223",
+   "availability": "available"
  },
  {
    "Point": "  Кролевецький район",
    "census2018": 37579,
-   "ADM2_PCODE": "UA59226"
+   "ADM2_PCODE": "UA59226",
+   "availability": "available"
  },
  {
    "Point": "  Лебединський район",
    "census2018": 19353,
-   "ADM2_PCODE": "UA59229"
+   "ADM2_PCODE": "UA59229",
+   "availability": "available"
  },
  {
    "Point": "  Липоводолинський район",
    "census2018": 18357,
-   "ADM2_PCODE": "UA59232"
+   "ADM2_PCODE": "UA59232",
+   "availability": "available"
  },
  {
    "Point": "  Недригайлівський район",
    "census2018": 23874,
-   "ADM2_PCODE": "UA59235"
+   "ADM2_PCODE": "UA59235",
+   "availability": "available"
  },
  {
    "Point": "  Охтирський район",
    "census2018": 26113,
-   "ADM2_PCODE": "UA59203"
+   "ADM2_PCODE": "UA59203",
+   "availability": "available"
  },
  {
    "Point": "  Путивльський район",
    "census2018": 27056,
-   "ADM2_PCODE": "UA59238"
+   "ADM2_PCODE": "UA59238",
+   "availability": "available"
  },
  {
    "Point": "  Роменський район",
    "census2018": 32153,
-   "ADM2_PCODE": "UA59241"
+   "ADM2_PCODE": "UA59241",
+   "availability": "available"
  },
  {
    "Point": "  Середино-Будський район",
    "census2018": 16048,
-   "ADM2_PCODE": "UA59244"
+   "ADM2_PCODE": "UA59244",
+   "availability": "available"
  },
  {
    "Point": "  Сумський район",
    "census2018": 62722,
-   "ADM2_PCODE": "UA59247"
+   "ADM2_PCODE": "UA59247",
+   "availability": "available"
  },
  {
    "Point": "  Тростянецький (Сумська) район",
    "census2018": 34402,
-   "ADM2_PCODE": "UA59250"
+   "ADM2_PCODE": "UA59250",
+   "availability": "available"
  },
  {
    "Point": "  Шосткинський район",
    "census2018": 20171,
-   "ADM2_PCODE": "UA59253"
+   "ADM2_PCODE": "UA59253",
+   "availability": "available"
  },
  {
    "Point": "  Ямпільський район",
    "census2018": 23281,
-   "ADM2_PCODE": "UA05256"
+   "ADM2_PCODE": "UA05256",
+   "availability": "available"
  },
  {
    "Point": "  Ямпільський район",
    "census2018": 23281,
-   "ADM2_PCODE": "UA59256"
+   "ADM2_PCODE": "UA59256",
+   "availability": "available"
  },
  {
    "Point": "Тернопільська область",
    "census2018": 1052312,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 472721,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 579591,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Тернопіль",
    "census2018": 218653,
-   "ADM2_PCODE": "UA61101"
+   "ADM2_PCODE": "UA61101",
+   "availability": "available"
  },
  {
    "Point": "  Бережани (міськрада) ",
    "census2018": 19484,
-   "ADM2_PCODE": "UA61105"
+   "ADM2_PCODE": "UA61105",
+   "availability": "available"
  },
  {
    "Point": "  м. Кременець",
    "census2018": 21235,
-   "ADM2_PCODE": "UA61107"
+   "ADM2_PCODE": "UA61107",
+   "availability": "available"
  },
  {
    "Point": "  м. Чортків",
    "census2018": 29057,
-   "ADM2_PCODE": "UA61103"
+   "ADM2_PCODE": "UA61103",
+   "availability": "available"
  },
  {
    "Point": "  Бережанський район",
    "census2018": 20891,
-   "ADM2_PCODE": "UA61204"
+   "ADM2_PCODE": "UA61204",
+   "availability": "available"
  },
  {
    "Point": "  Борщівський район",
    "census2018": 66399,
-   "ADM2_PCODE": "UA61208"
+   "ADM2_PCODE": "UA61208",
+   "availability": "available"
  },
  {
    "Point": "  Бучацький район",
    "census2018": 63110,
-   "ADM2_PCODE": "UA61212"
+   "ADM2_PCODE": "UA61212",
+   "availability": "available"
  },
  {
    "Point": "  Гусятинський район",
    "census2018": 59321,
-   "ADM2_PCODE": "UA61216"
+   "ADM2_PCODE": "UA61216",
+   "availability": "available"
  },
  {
    "Point": "  Заліщицький район",
    "census2018": 46059,
-   "ADM2_PCODE": "UA61220"
+   "ADM2_PCODE": "UA61220",
+   "availability": "available"
  },
  {
    "Point": "  Збаразький район",
    "census2018": 57083,
-   "ADM2_PCODE": "UA61224"
+   "ADM2_PCODE": "UA61224",
+   "availability": "available"
  },
  {
    "Point": "  Зборівський район",
    "census2018": 41035,
-   "ADM2_PCODE": "UA61226"
+   "ADM2_PCODE": "UA61226",
+   "availability": "available"
  },
  {
    "Point": "  Козівський район",
    "census2018": 37489,
-   "ADM2_PCODE": "UA61230"
+   "ADM2_PCODE": "UA61230",
+   "availability": "available"
  },
  {
    "Point": "  Кременецький район",
    "census2018": 46584,
-   "ADM2_PCODE": "UA61234"
+   "ADM2_PCODE": "UA61234",
+   "availability": "available"
  },
  {
    "Point": "  Лановецький район",
    "census2018": 29325,
-   "ADM2_PCODE": "UA61238"
+   "ADM2_PCODE": "UA61238",
+   "availability": "available"
  },
  {
    "Point": "  Монастириський район",
    "census2018": 27151,
-   "ADM2_PCODE": "UA61242"
+   "ADM2_PCODE": "UA61242",
+   "availability": "available"
  },
  {
    "Point": "  Підволочиський район",
    "census2018": 41868,
-   "ADM2_PCODE": "UA61246"
+   "ADM2_PCODE": "UA61246",
+   "availability": "available"
  },
  {
    "Point": "  Підгаєцький район",
    "census2018": 18125,
-   "ADM2_PCODE": "UA61248"
+   "ADM2_PCODE": "UA61248",
+   "availability": "available"
  },
  {
    "Point": "  Теребовлянський район",
    "census2018": 64833,
-   "ADM2_PCODE": "UA61250"
+   "ADM2_PCODE": "UA61250",
+   "availability": "available"
  },
  {
    "Point": "  Тернопільський район",
    "census2018": 67093,
-   "ADM2_PCODE": "UA61252"
+   "ADM2_PCODE": "UA61252",
+   "availability": "available"
  },
  {
    "Point": "  Чортківський район",
    "census2018": 44130,
-   "ADM2_PCODE": "UA61255"
+   "ADM2_PCODE": "UA61255",
+   "availability": "available"
  },
  {
    "Point": "  Шумський район",
    "census2018": 33387,
-   "ADM2_PCODE": "UA61258"
+   "ADM2_PCODE": "UA61258",
+   "availability": "available"
  },
  {
    "Point": "Харківська область",
    "census2018": 2694007,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 2179498,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 514509,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Харків",
    "census2018": 1450082,
-   "ADM2_PCODE": "UA63101"
+   "ADM2_PCODE": "UA63101",
+   "availability": "available"
  },
  {
    "Point": "  м. Ізюм",
    "census2018": 48368,
-   "ADM2_PCODE": "UA63104"
+   "ADM2_PCODE": "UA63104",
+   "availability": "available"
  },
  {
    "Point": "  Куп'янськ (міськрада)",
    "census2018": 55691,
-   "ADM2_PCODE": "UA63107"
+   "ADM2_PCODE": "UA63107",
+   "availability": "available"
  },
  {
    "Point": "  Лозова (міськрада)",
    "census2018": 64628,
-   "ADM2_PCODE": "UA63110"
+   "ADM2_PCODE": "UA63110",
+   "availability": "available"
  },
  {
    "Point": "  Люботин (міськрада)",
    "census2018": 23939,
-   "ADM2_PCODE": "UA63112"
+   "ADM2_PCODE": "UA63112",
+   "availability": "available"
+ },
+ {
+   "Point": "   м. Первомайський",
+   "census2018": 29931,
+   "ADM2_PCODE": "UA63115",
+   "availability": "available"
  },
  {
    "Point": "  Чугуїв (міськрада)",
    "census2018": 33104,
-   "ADM2_PCODE": "UA63120"
+   "ADM2_PCODE": "UA63120",
+   "availability": "available"
  },
  {
    "Point": "  Балаклійський район",
    "census2018": 80487,
-   "ADM2_PCODE": "UA63202"
+   "ADM2_PCODE": "UA63202",
+   "availability": "available"
  },
  {
    "Point": "  Барвінківський район",
    "census2018": 21057,
-   "ADM2_PCODE": "UA63204"
+   "ADM2_PCODE": "UA63204",
+   "availability": "available"
  },
  {
    "Point": "  Близнюківський район",
    "census2018": 18491,
-   "ADM2_PCODE": "UA63206"
+   "ADM2_PCODE": "UA63206",
+   "availability": "available"
  },
  {
    "Point": "  Богодухівський район",
    "census2018": 38453,
-   "ADM2_PCODE": "UA63208"
+   "ADM2_PCODE": "UA63208",
+   "availability": "available"
  },
  {
    "Point": "  Борівський район",
    "census2018": 16588,
-   "ADM2_PCODE": "UA63210"
+   "ADM2_PCODE": "UA63210",
+   "availability": "available"
  },
  {
    "Point": "  Валківський район",
    "census2018": 31410,
-   "ADM2_PCODE": "UA63212"
+   "ADM2_PCODE": "UA63212",
+   "availability": "available"
  },
  {
    "Point": "  Великобурлуцький район",
    "census2018": 21914,
-   "ADM2_PCODE": "UA63214"
+   "ADM2_PCODE": "UA63214",
+   "availability": "available"
  },
  {
    "Point": "  Вовчанський район",
    "census2018": 45737,
-   "ADM2_PCODE": "UA63216"
+   "ADM2_PCODE": "UA63216",
+   "availability": "available"
  },
  {
    "Point": "  Дворічанський район",
    "census2018": 17264,
-   "ADM2_PCODE": "UA63218"
+   "ADM2_PCODE": "UA63218",
+   "availability": "available"
  },
  {
    "Point": "  Дергачівський район",
    "census2018": 94165,
-   "ADM2_PCODE": "UA63220"
+   "ADM2_PCODE": "UA63220",
+   "availability": "available"
  },
  {
    "Point": "  Зачепилівський район",
    "census2018": 14955,
-   "ADM2_PCODE": "UA63222"
+   "ADM2_PCODE": "UA63222",
+   "availability": "available"
  },
  {
    "Point": "  Зміївський район",
    "census2018": 70694,
-   "ADM2_PCODE": "UA63217"
+   "ADM2_PCODE": "UA63217",
+   "availability": "available"
  },
  {
    "Point": "  Золочівський (Харківська) район",
    "census2018": 25747,
-   "ADM2_PCODE": "UA63226"
+   "ADM2_PCODE": "UA63226",
+   "availability": "available"
  },
  {
    "Point": "  Ізюмський район",
    "census2018": 16909,
-   "ADM2_PCODE": "UA63228"
+   "ADM2_PCODE": "UA63228",
+   "availability": "available"
  },
  {
    "Point": "  Кегичівський район",
    "census2018": 20847,
-   "ADM2_PCODE": "UA63231"
+   "ADM2_PCODE": "UA63231",
+   "availability": "available"
  },
  {
    "Point": "  Коломацький район",
    "census2018": 6906,
-   "ADM2_PCODE": "UA63232"
+   "ADM2_PCODE": "UA63232",
+   "availability": "available"
  },
  {
    "Point": "  Красноградський район",
    "census2018": 44003,
-   "ADM2_PCODE": "UA63233"
+   "ADM2_PCODE": "UA63233",
+   "availability": "available"
  },
  {
    "Point": "  Краснокутський район",
    "census2018": 27645,
-   "ADM2_PCODE": "UA63235"
+   "ADM2_PCODE": "UA63235",
+   "availability": "available"
  },
  {
    "Point": "  Куп'янський район",
    "census2018": 24160,
-   "ADM2_PCODE": "UA63237"
+   "ADM2_PCODE": "UA63237",
+   "availability": "available"
  },
  {
    "Point": "  Лозівський район",
    "census2018": 28429,
-   "ADM2_PCODE": "UA63239"
+   "ADM2_PCODE": "UA63239",
+   "availability": "available"
  },
  {
    "Point": "  Нововодолазький район",
    "census2018": 32196,
-   "ADM2_PCODE": "UA63242"
+   "ADM2_PCODE": "UA63242",
+   "availability": "available"
  },
  {
    "Point": "  Первомайський (Харківська) район",
    "census2018": 15399,
-   "ADM2_PCODE": "UA63245"
+   "ADM2_PCODE": "UA63245",
+   "availability": "available"
  },
  {
    "Point": "  Печенізький район",
    "census2018": 9834,
-   "ADM2_PCODE": "UA63246"
+   "ADM2_PCODE": "UA63246",
+   "availability": "available"
  },
  {
    "Point": "  Сахновщинський район",
    "census2018": 20767,
-   "ADM2_PCODE": "UA63248"
+   "ADM2_PCODE": "UA63248",
+   "availability": "available"
  },
  {
    "Point": "  Харківський район",
    "census2018": 177608,
-   "ADM2_PCODE": "UA63251"
+   "ADM2_PCODE": "UA63251",
+   "availability": "available"
  },
  {
    "Point": "  Чугуївський район",
    "census2018": 46395,
-   "ADM2_PCODE": "UA63254"
+   "ADM2_PCODE": "UA63254",
+   "availability": "available"
  },
  {
    "Point": "  Шевченківський район",
    "census2018": 20204,
-   "ADM2_PCODE": "UA63257"
+   "ADM2_PCODE": "UA63257",
+   "availability": "available"
  },
  {
    "Point": "Херсонська область",
    "census2018": 1046981,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 641402,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 405579,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Херсон (міськрада)",
    "census2018": 329432,
-   "ADM2_PCODE": "UA65101"
+   "ADM2_PCODE": "UA65101",
+   "availability": "available"
  },
  {
    "Point": "  Гола Пристань (міськрада)",
    "census2018": 14466,
-   "ADM2_PCODE": "UA65103"
+   "ADM2_PCODE": "UA65103",
+   "availability": "available"
  },
  {
    "Point": "  м. Каховка",
    "census2018": 36258,
-   "ADM2_PCODE": "UA65104"
+   "ADM2_PCODE": "UA65104",
+   "availability": "available"
  },
  {
    "Point": "  Нова Каховка (міськрада)",
    "census2018": 66915,
-   "ADM2_PCODE": "UA65107"
+   "ADM2_PCODE": "UA65107",
+   "availability": "available"
  },
  {
    "Point": "  Бериславський район",
    "census2018": 47200,
-   "ADM2_PCODE": "UA65206"
+   "ADM2_PCODE": "UA65206",
+   "availability": "available"
  },
  {
    "Point": "  Білозерський район",
    "census2018": 65792,
-   "ADM2_PCODE": "UA65203"
+   "ADM2_PCODE": "UA65203",
+   "availability": "available"
  },
  {
    "Point": "  Великолепетиський район",
    "census2018": 16405,
-   "ADM2_PCODE": "UA65212"
+   "ADM2_PCODE": "UA65212",
+   "availability": "available"
  },
  {
    "Point": "  Великоолександрівський район",
    "census2018": 25328,
-   "ADM2_PCODE": "UA65209"
+   "ADM2_PCODE": "UA65209",
+   "availability": "available"
  },
  {
    "Point": "  Верхньорогачицький район",
    "census2018": 11638,
-   "ADM2_PCODE": "UA65215"
+   "ADM2_PCODE": "UA65215",
+   "availability": "available"
  },
  {
    "Point": "  Високопільський район",
    "census2018": 14822,
-   "ADM2_PCODE": "UA65218"
+   "ADM2_PCODE": "UA65218",
+   "availability": "available"
  },
  {
    "Point": "  Генічеський район",
    "census2018": 59058,
-   "ADM2_PCODE": "UA65221"
+   "ADM2_PCODE": "UA65221",
+   "availability": "available"
  },
  {
    "Point": "  Голопристанський район",
    "census2018": 45258,
-   "ADM2_PCODE": "UA65223"
+   "ADM2_PCODE": "UA65223",
+   "availability": "available"
  },
  {
    "Point": "  Горностаївський район",
    "census2018": 19469,
-   "ADM2_PCODE": "UA65226"
+   "ADM2_PCODE": "UA65226",
+   "availability": "available"
  },
  {
    "Point": "  Іванівський (Херсонська) район",
    "census2018": 13630,
-   "ADM2_PCODE": "UA65229"
+   "ADM2_PCODE": "UA65229",
+   "availability": "available"
  },
  {
    "Point": "  Каланчацький район",
    "census2018": 21348,
-   "ADM2_PCODE": "UA65232"
+   "ADM2_PCODE": "UA65232",
+   "availability": "available"
  },
  {
    "Point": "  Каховський район",
    "census2018": 35434,
-   "ADM2_PCODE": "UA65235"
+   "ADM2_PCODE": "UA65235",
+   "availability": "available"
  },
  {
    "Point": "  Нижньосірогозький район",
    "census2018": 15591,
-   "ADM2_PCODE": "UA65238"
+   "ADM2_PCODE": "UA65238",
+   "availability": "available"
  },
  {
    "Point": "  Нововоронцовський район",
    "census2018": 20906,
-   "ADM2_PCODE": "UA65241"
+   "ADM2_PCODE": "UA65241",
+   "availability": "available"
  },
  {
    "Point": "  Новотроїцький район",
    "census2018": 35223,
-   "ADM2_PCODE": "UA65244"
+   "ADM2_PCODE": "UA65244",
+   "availability": "available"
  },
  {
    "Point": "  Скадовський район",
    "census2018": 47061,
-   "ADM2_PCODE": "UA65247"
+   "ADM2_PCODE": "UA65247",
+   "availability": "available"
  },
  {
    "Point": "  Олешківський район",
    "census2018": 70981,
-   "ADM2_PCODE": "UA65250"
+   "ADM2_PCODE": "UA65250",
+   "availability": "available"
  },
  {
    "Point": "  Чаплинський район",
    "census2018": 34766,
-   "ADM2_PCODE": "UA65254"
+   "ADM2_PCODE": "UA65254",
+   "availability": "available"
  },
  {
    "Point": "Хмельницька область",
    "census2018": 1274409,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 723032,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 551377,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Хмельницький",
    "census2018": 268417,
-   "ADM2_PCODE": "UA68101"
+   "ADM2_PCODE": "UA68101",
+   "availability": "available"
  },
  {
    "Point": "  м. Кам'янець-Подільський",
    "census2018": 100281,
-   "ADM2_PCODE": "UA68104"
+   "ADM2_PCODE": "UA68104",
+   "availability": "available"
  },
  {
    "Point": "  м. Нетішин",
    "census2018": 36921,
-   "ADM2_PCODE": "UA68105"
+   "ADM2_PCODE": "UA68105",
+   "availability": "available"
  },
  {
    "Point": "  м. Славута",
    "census2018": 35617,
-   "ADM2_PCODE": "UA68106"
+   "ADM2_PCODE": "UA68106",
+   "availability": "available"
  },
  {
    "Point": "  м. Старокостянтинів",
    "census2018": 34829,
-   "ADM2_PCODE": "UA68108"
+   "ADM2_PCODE": "UA68108",
+   "availability": "available"
  },
  {
    "Point": "  м. Шепетівка",
    "census2018": 42062,
-   "ADM2_PCODE": "UA68107"
+   "ADM2_PCODE": "UA68107",
+   "availability": "available"
  },
  {
    "Point": "  Білогірський (Хмельницька) район",
    "census2018": 26278,
-   "ADM2_PCODE": "UA68203"
+   "ADM2_PCODE": "UA68203",
+   "availability": "available"
  },
  {
    "Point": "  Віньковецький район",
    "census2018": 23731,
-   "ADM2_PCODE": "UA68206"
+   "ADM2_PCODE": "UA68206",
+   "availability": "available"
  },
  {
    "Point": "  Волочиський район",
    "census2018": 50382,
-   "ADM2_PCODE": "UA68209"
+   "ADM2_PCODE": "UA68209",
+   "availability": "available"
  },
  {
    "Point": "  Городоцький (Хмельницька) район",
    "census2018": 47008,
-   "ADM2_PCODE": "UA68212"
+   "ADM2_PCODE": "UA68212",
+   "availability": "available"
  },
  {
    "Point": "  Деражнянський район",
    "census2018": 31339,
-   "ADM2_PCODE": "UA68215"
+   "ADM2_PCODE": "UA68215",
+   "availability": "available"
  },
  {
    "Point": "  Дунаєвецький район",
    "census2018": 61252,
-   "ADM2_PCODE": "UA68218"
+   "ADM2_PCODE": "UA68218",
+   "availability": "available"
  },
  {
    "Point": "  Ізяславський район",
    "census2018": 43355,
-   "ADM2_PCODE": "UA68221"
+   "ADM2_PCODE": "UA68221",
+   "availability": "available"
  },
  {
    "Point": "  Кам'янець-Подільський район",
    "census2018": 64746,
-   "ADM2_PCODE": "UA68224"
+   "ADM2_PCODE": "UA68224",
+   "availability": "available"
  },
  {
    "Point": "  Красилівський район",
    "census2018": 50840,
-   "ADM2_PCODE": "UA68227"
+   "ADM2_PCODE": "UA68227",
+   "availability": "available"
  },
  {
    "Point": "  Летичівський район",
    "census2018": 27355,
-   "ADM2_PCODE": "UA68230"
+   "ADM2_PCODE": "UA68230",
+   "availability": "available"
  },
  {
    "Point": "  Новоушицький район",
    "census2018": 27915,
-   "ADM2_PCODE": "UA68233"
+   "ADM2_PCODE": "UA68233",
+   "availability": "available"
  },
  {
    "Point": "  Полонський район",
    "census2018": 43649,
-   "ADM2_PCODE": "UA68236"
+   "ADM2_PCODE": "UA68236",
+   "availability": "available"
  },
  {
    "Point": "  Славутський район",
    "census2018": 28756,
-   "ADM2_PCODE": "UA68239"
+   "ADM2_PCODE": "UA68239",
+   "availability": "available"
  },
  {
    "Point": "  Старокостянтинівський район",
    "census2018": 28123,
-   "ADM2_PCODE": "UA68242"
+   "ADM2_PCODE": "UA68242",
+   "availability": "available"
  },
  {
    "Point": "  Старосинявський район",
    "census2018": 19875,
-   "ADM2_PCODE": "UA68244"
+   "ADM2_PCODE": "UA68244",
+   "availability": "available"
  },
  {
    "Point": "  Теофіпольський район",
    "census2018": 26394,
-   "ADM2_PCODE": "UA68247"
+   "ADM2_PCODE": "UA68247",
+   "availability": "available"
  },
  {
    "Point": "  Хмельницький район",
    "census2018": 53409,
-   "ADM2_PCODE": "UA68250"
+   "ADM2_PCODE": "UA68250",
+   "availability": "available"
  },
  {
    "Point": "  Чемеровецький район",
    "census2018": 40055,
-   "ADM2_PCODE": "UA68252"
+   "ADM2_PCODE": "UA68252",
+   "availability": "available"
  },
  {
    "Point": "  Шепетівський район",
    "census2018": 32839,
-   "ADM2_PCODE": "UA68255"
+   "ADM2_PCODE": "UA68255",
+   "availability": "available"
  },
  {
    "Point": "  Ярмолинецький район",
    "census2018": 28981,
-   "ADM2_PCODE": "UA68258"
+   "ADM2_PCODE": "UA68258",
+   "availability": "available"
  },
  {
    "Point": "Черкаська область",
    "census2018": 1220363,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 690072,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 530291,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Черкаси (міськрада)",
    "census2018": 278830,
-   "ADM2_PCODE": "UA71101"
+   "ADM2_PCODE": "UA71101",
+   "availability": "available"
  },
  {
    "Point": "  Ватутіне (міськрада)",
    "census2018": 17167,
-   "ADM2_PCODE": "UA71102"
+   "ADM2_PCODE": "UA71102",
+   "availability": "available"
  },
  {
    "Point": "  Золотоноша (міськрада)",
    "census2018": 28808,
-   "ADM2_PCODE": "UA71104"
+   "ADM2_PCODE": "UA71104",
+   "availability": "available"
  },
  {
    "Point": "  м. Канів",
    "census2018": 24152,
-   "ADM2_PCODE": "UA71103"
+   "ADM2_PCODE": "UA71103",
+   "availability": "available"
  },
  {
    "Point": "  Сміла (міськрада)",
    "census2018": 68142,
-   "ADM2_PCODE": "UA71105"
+   "ADM2_PCODE": "UA71105",
+   "availability": "available"
  },
  {
    "Point": "  м. Умань",
    "census2018": 83977,
-   "ADM2_PCODE": "UA71108"
+   "ADM2_PCODE": "UA71108",
+   "availability": "available"
  },
  {
    "Point": "  Городищенський район",
    "census2018": 39745,
-   "ADM2_PCODE": "UA71203"
+   "ADM2_PCODE": "UA71203",
+   "availability": "available"
  },
  {
    "Point": "  Драбівський район",
    "census2018": 34332,
-   "ADM2_PCODE": "UA71206"
+   "ADM2_PCODE": "UA71206",
+   "availability": "available"
  },
  {
    "Point": "  Жашківський район",
    "census2018": 36484,
-   "ADM2_PCODE": "UA71209"
+   "ADM2_PCODE": "UA71209",
+   "availability": "available"
  },
  {
    "Point": "  Звенигородський район",
    "census2018": 43615,
-   "ADM2_PCODE": "UA71212"
+   "ADM2_PCODE": "UA71212",
+   "availability": "available"
  },
  {
    "Point": "  Золотоніський район",
    "census2018": 40640,
-   "ADM2_PCODE": "UA71215"
+   "ADM2_PCODE": "UA71215",
+   "availability": "available"
  },
  {
    "Point": "  Кам'янський район",
    "census2018": 26710,
-   "ADM2_PCODE": "UA71218"
+   "ADM2_PCODE": "UA71218",
+   "availability": "available"
  },
  {
    "Point": "  Канівський район",
    "census2018": 19050,
-   "ADM2_PCODE": "UA71220"
+   "ADM2_PCODE": "UA71220",
+   "availability": "available"
  },
  {
    "Point": "  Катеринопільський район",
    "census2018": 23779,
-   "ADM2_PCODE": "UA71222"
+   "ADM2_PCODE": "UA71222",
+   "availability": "available"
  },
  {
    "Point": "  Корсунь-Шевченківський район",
    "census2018": 41927,
-   "ADM2_PCODE": "UA71225"
+   "ADM2_PCODE": "UA71225",
+   "availability": "available"
  },
  {
    "Point": "  Лисянський район",
    "census2018": 23065,
-   "ADM2_PCODE": "UA71228"
+   "ADM2_PCODE": "UA71228",
+   "availability": "available"
  },
  {
    "Point": "  Маньківський район",
    "census2018": 27035,
-   "ADM2_PCODE": "UA71231"
+   "ADM2_PCODE": "UA71231",
+   "availability": "available"
  },
  {
    "Point": "  Монастирищенський район",
    "census2018": 35783,
-   "ADM2_PCODE": "UA71234"
+   "ADM2_PCODE": "UA71234",
+   "availability": "available"
  },
  {
    "Point": "  Смілянський район",
    "census2018": 32035,
-   "ADM2_PCODE": "UA71237"
+   "ADM2_PCODE": "UA71237",
+   "availability": "available"
  },
  {
    "Point": "  Тальнівський район",
    "census2018": 33209,
-   "ADM2_PCODE": "UA71240"
+   "ADM2_PCODE": "UA71240",
+   "availability": "available"
  },
  {
    "Point": "  Уманський район",
    "census2018": 43058,
-   "ADM2_PCODE": "UA71243"
+   "ADM2_PCODE": "UA71243",
+   "availability": "available"
  },
  {
    "Point": "  Христинівський район",
    "census2018": 34461,
-   "ADM2_PCODE": "UA71246"
+   "ADM2_PCODE": "UA71246",
+   "availability": "available"
  },
  {
    "Point": "  Черкаський район",
    "census2018": 75033,
-   "ADM2_PCODE": "UA71249"
+   "ADM2_PCODE": "UA71249",
+   "availability": "available"
  },
  {
    "Point": "  Чигиринський район",
    "census2018": 26406,
-   "ADM2_PCODE": "UA71254"
+   "ADM2_PCODE": "UA71254",
+   "availability": "available"
  },
  {
    "Point": "  Чорнобаївський район",
    "census2018": 40546,
-   "ADM2_PCODE": "UA71251"
+   "ADM2_PCODE": "UA71251",
+   "availability": "available"
  },
  {
    "Point": "  Шполянський район",
    "census2018": 42374,
-   "ADM2_PCODE": "UA71257"
+   "ADM2_PCODE": "UA71257",
+   "availability": "available"
  },
  {
    "Point": "Чернівецька область",
    "census2018": 906701,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Міське населення",
    "census2018": 390443,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": " Сільське населення",
    "census2018": 516258,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  м. Чернівці",
    "census2018": 265682,
-   "ADM2_PCODE": "UA73101"
+   "ADM2_PCODE": "UA73101",
+   "availability": "available"
  },
  {
    "Point": "  м. Новодністровськ",
    "census2018": 10813,
-   "ADM2_PCODE": "UA73106"
+   "ADM2_PCODE": "UA73106",
+   "availability": "available"
  },
  {
    "Point": "  Вижницький район",
    "census2018": 55538,
-   "ADM2_PCODE": "UA73205"
+   "ADM2_PCODE": "UA73205",
+   "availability": "available"
  },
  {
    "Point": "  Герцаївський район",
    "census2018": 33219,
-   "ADM2_PCODE": "UA73207"
+   "ADM2_PCODE": "UA73207",
+   "availability": "available"
  },
  {
    "Point": "  Глибоцький район",
    "census2018": 74201,
-   "ADM2_PCODE": "UA73210"
+   "ADM2_PCODE": "UA73210",
+   "availability": "available"
  },
  {
    "Point": "  Заставнівський район",
    "census2018": 49225,
-   "ADM2_PCODE": "UA73215"
+   "ADM2_PCODE": "UA73215",
+   "availability": "available"
  },
  {
    "Point": "  Кельменецький район",
    "census2018": 40179,
-   "ADM2_PCODE": "UA73220"
+   "ADM2_PCODE": "UA73220",
+   "availability": "available"
  },
  {
    "Point": "  Кіцманський район",
    "census2018": 68729,
-   "ADM2_PCODE": "UA73225"
+   "ADM2_PCODE": "UA73225",
+   "availability": "available"
  },
  {
    "Point": "  Новоселицький район",
    "census2018": 77577,
-   "ADM2_PCODE": "UA73230"
+   "ADM2_PCODE": "UA73230",
+   "availability": "available"
  },
  {
    "Point": "  Путильський район",
    "census2018": 26365,
-   "ADM2_PCODE": "UA73235"
+   "ADM2_PCODE": "UA73235",
+   "availability": "available"
  },
  {
    "Point": "  Сокирянський район",
    "census2018": 42617,
-   "ADM2_PCODE": "UA73240"
+   "ADM2_PCODE": "UA73240",
+   "availability": "available"
  },
  {
    "Point": "  Сторожинецький район",
    "census2018": 100788,
-   "ADM2_PCODE": "UA73245"
+   "ADM2_PCODE": "UA73245",
+   "availability": "available"
  },
  {
    "Point": "  Хотинський район",
    "census2018": 61768,
-   "ADM2_PCODE": "UA73250"
+   "ADM2_PCODE": "UA73250",
+   "availability": "available"
  },
  {
    "Point": "Чернігівська область",
    "census2018": 1020078,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Міське населення",
    "census2018": 662428,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " Сільське населення",
    "census2018": 357650,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": "  м. Чернігів",
    "census2018": 289399,
-   "ADM2_PCODE": "UA74101"
+   "ADM2_PCODE": "UA74101",
+   "availability": "available"
  },
  {
    "Point": "  м. Ніжин",
    "census2018": 70046,
-   "ADM2_PCODE": "UA74104"
+   "ADM2_PCODE": "UA74104",
+   "availability": "available"
  },
  {
    "Point": " Новгород-Сіверський (міськрада)",
    "census2018": 13289,
-   "ADM2_PCODE": "UA74105"
+   "ADM2_PCODE": "UA74105",
+   "availability": "available"
  },
  {
    "Point": "  м. Прилуки",
    "census2018": 55215,
-   "ADM2_PCODE": "UA74107"
+   "ADM2_PCODE": "UA74107",
+   "availability": "available"
  },
  {
    "Point": "  Бахмацький район",
    "census2018": 43990,
-   "ADM2_PCODE": "UA74203"
+   "ADM2_PCODE": "UA74203",
+   "availability": "available"
  },
  {
    "Point": "  Бобровицький район",
    "census2018": 32438,
-   "ADM2_PCODE": "UA74206"
+   "ADM2_PCODE": "UA74206",
+   "availability": "available"
  },
  {
    "Point": "  Борзнянський район",
    "census2018": 30780,
-   "ADM2_PCODE": "UA74208"
+   "ADM2_PCODE": "UA74208",
+   "availability": "available"
  },
  {
    "Point": "  Варвинський район",
    "census2018": 15760,
-   "ADM2_PCODE": "UA74211"
+   "ADM2_PCODE": "UA74211",
+   "availability": "available"
  },
  {
    "Point": "  Городнянський район",
    "census2018": 27861,
-   "ADM2_PCODE": "UA74214"
+   "ADM2_PCODE": "UA74214",
+   "availability": "available"
  },
  {
    "Point": "  Ічнянський район",
    "census2018": 30703,
-   "ADM2_PCODE": "UA74217"
+   "ADM2_PCODE": "UA74217",
+   "availability": "available"
  },
  {
    "Point": "  Козелецький район",
    "census2018": 44236,
-   "ADM2_PCODE": "UA74220"
+   "ADM2_PCODE": "UA74220",
+   "availability": "available"
  },
  {
    "Point": "  Коропський район",
    "census2018": 22561,
-   "ADM2_PCODE": "UA74222"
+   "ADM2_PCODE": "UA74222",
+   "availability": "available"
  },
  {
    "Point": "  Корюківський район",
    "census2018": 26395,
-   "ADM2_PCODE": "UA74224"
+   "ADM2_PCODE": "UA74224",
+   "availability": "available"
  },
  {
    "Point": "  Куликівський район",
    "census2018": 16470,
-   "ADM2_PCODE": "UA74227"
+   "ADM2_PCODE": "UA74227",
+   "availability": "available"
  },
  {
    "Point": "  Менський район",
    "census2018": 35249,
-   "ADM2_PCODE": "UA74230"
+   "ADM2_PCODE": "UA74230",
+   "availability": "available"
  },
  {
    "Point": "  Ніжинський район",
    "census2018": 26830,
-   "ADM2_PCODE": "UA74233"
+   "ADM2_PCODE": "UA74233",
+   "availability": "available"
  },
  {
    "Point": "  Новгород-Сіверський район",
    "census2018": 12989,
-   "ADM2_PCODE": "UA74236"
+   "ADM2_PCODE": "UA74236",
+   "availability": "available"
  },
  {
    "Point": "  Носівський район",
    "census2018": 28682,
-   "ADM2_PCODE": "UA74238"
+   "ADM2_PCODE": "UA74238",
+   "availability": "available"
  },
  {
    "Point": "  Прилуцький район",
    "census2018": 35354,
-   "ADM2_PCODE": "UA74241"
+   "ADM2_PCODE": "UA74241",
+   "availability": "available"
  },
  {
    "Point": "  Ріпкинський район",
    "census2018": 26770,
-   "ADM2_PCODE": "UA74244"
+   "ADM2_PCODE": "UA74244",
+   "availability": "available"
  },
  {
    "Point": "  Семенівський район",
    "census2018": 17515,
-   "ADM2_PCODE": "UA53245"
+   "ADM2_PCODE": "UA53245",
+   "availability": "available"
  },
  {
    "Point": "  Семенівський район",
    "census2018": 17515,
-   "ADM2_PCODE": "UA74247"
+   "ADM2_PCODE": "UA74247",
+   "availability": "available"
  },
  {
    "Point": "  Сосницький район",
    "census2018": 18112,
-   "ADM2_PCODE": "UA74249"
+   "ADM2_PCODE": "UA74249",
+   "availability": "available"
  },
  {
    "Point": "  Срібнянський район",
    "census2018": 11154,
-   "ADM2_PCODE": "UA74251"
+   "ADM2_PCODE": "UA74251",
+   "availability": "available"
  },
  {
    "Point": "  Талалаївський район",
    "census2018": 12612,
-   "ADM2_PCODE": "UA74253"
+   "ADM2_PCODE": "UA74253",
+   "availability": "available"
  },
  {
    "Point": "  Сновський район",
    "census2018": 23165,
-   "ADM2_PCODE": "UA74258"
+   "ADM2_PCODE": "UA74258",
+   "availability": "available"
  },
  {
    "Point": "  Чернігівський (Чернігівська) район",
    "census2018": 52503,
-   "ADM2_PCODE": "UA74255"
+   "ADM2_PCODE": "UA74255",
+   "availability": "available"
  },
  {
    "Point": "Республіка Крим",
    "census2018": 1,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": ""
  },
  {
    "Point": "  Чорноморський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01256"
+   "ADM2_PCODE": "UA01256",
+   "availability": "na"
  },
  {
    "Point": "  Совєтський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01252"
+   "ADM2_PCODE": "UA01252",
+   "availability": "na"
  },
  {
    "Point": "  Сімферопольський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01247"
+   "ADM2_PCODE": "UA01247",
+   "availability": "na"
  },
  {
    "Point": "  Сакський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01243"
+   "ADM2_PCODE": "UA01243",
+   "availability": "na"
  },
  {
    "Point": "  Роздольненський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01239"
+   "ADM2_PCODE": "UA01239",
+   "availability": "na"
  },
  {
    "Point": "  Первомайський (АРК) район",
    "census2018": 1,
-   "ADM2_PCODE": "UA74255"
+   "ADM2_PCODE": "UA74255",
+   "availability": "na"
  },
  {
    "Point": "  Нижньогірський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01231"
+   "ADM2_PCODE": "UA01231",
+   "availability": "na"
  },
  {
    "Point": "  Красногвардійський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01220"
+   "ADM2_PCODE": "UA01220",
+   "availability": "na"
  },
  {
    "Point": "  Кіровський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01216"
+   "ADM2_PCODE": "UA01216",
+   "availability": "na"
  },
  {
    "Point": "  Джанкойський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01211"
+   "ADM2_PCODE": "UA01211",
+   "availability": "na"
  },
  {
    "Point": "  Білогірський (Крим) район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01207"
+   "ADM2_PCODE": "UA01207",
+   "availability": "na"
  },
  {
    "Point": "  Бахчисарайський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01204"
+   "ADM2_PCODE": "UA01204",
+   "availability": "na"
  },
  {
    "Point": "  Ленінський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01227"
+   "ADM2_PCODE": "UA01227",
+   "availability": "na"
  },
  {
    "Point": "  Феодосія (МР) район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01116"
+   "ADM2_PCODE": "UA01116",
+   "availability": "na"
  },
  {
    "Point": "  Ялта (МР) район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01119"
+   "ADM2_PCODE": "UA01119",
+   "availability": "na"
  },
  {
    "Point": "  Красноперекопський район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01223"
+   "ADM2_PCODE": "UA01223",
+   "availability": "na"
  },
  {
    "Point": "  Судак (МР) район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01117"
+   "ADM2_PCODE": "UA01117",
+   "availability": "na"
  },
  {
    "Point": "  Алушта (МР) район",
    "census2018": 1,
-   "ADM2_PCODE": "UA01103"
+   "ADM2_PCODE": "UA01103",
+   "availability": "na"
  },
  {
    "Point": "м. Київ ",
    "census2018": 2936837,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "UA80000",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Голосіївський район)",
    "census2018": 251139,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Дарницький район)",
    "census2018": 341519,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Деснянський район)",
    "census2018": 368816,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Дніпровський район)",
    "census2018": 356379,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Оболонський район)",
    "census2018": 320277,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Печерський район)",
    "census2018": 159241,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Подільський район)",
    "census2018": 203860,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Святошинський район)",
    "census2018": 341871,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Солом´янський район)",
    "census2018": 371101,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  },
  {
    "Point": " м. Київ (Шевченківський район)",
    "census2018": 222634,
-   "ADM2_PCODE": ""
+   "ADM2_PCODE": "",
+   "availability": "available"
  }
 ]
