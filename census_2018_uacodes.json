@@ -1580,7 +1580,7 @@
  {
    "Point": "  м. Переяслав-Хмельницький",
    "census2018": 27322,
-   "ADM2_PCODE": "UA32210",
+   "ADM2_PCODE": "UA32110",
    "availability": "available"
  },
  {
@@ -4436,7 +4436,7 @@
  {
    "Point": "  Первомайський (АРК) район",
    "census2018": 1,
-   "ADM2_PCODE": "UA74255",
+   "ADM2_PCODE": "UA01235",
    "availability": "na"
  },
  {
