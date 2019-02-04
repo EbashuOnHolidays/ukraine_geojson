@@ -4407,109 +4407,109 @@
    "Point": "  Чорноморський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01256",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Совєтський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01252",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Сімферопольський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01247",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Сакський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01243",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Роздольненський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01239",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Первомайський (АРК) район",
    "census2018": 1,
    "ADM2_PCODE": "UA01235",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Нижньогірський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01231",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Красногвардійський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01220",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Кіровський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01216",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Джанкойський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01211",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Білогірський (Крим) район",
    "census2018": 1,
    "ADM2_PCODE": "UA01207",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Бахчисарайський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01204",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Ленінський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01227",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Феодосія (МР) район",
    "census2018": 1,
    "ADM2_PCODE": "UA01116",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Ялта (МР) район",
    "census2018": 1,
    "ADM2_PCODE": "UA01119",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Красноперекопський район",
    "census2018": 1,
    "ADM2_PCODE": "UA01223",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Судак (МР) район",
    "census2018": 1,
    "ADM2_PCODE": "UA01117",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "  Алушта (МР) район",
    "census2018": 1,
    "ADM2_PCODE": "UA01103",
-   "availability": "na"
+   "availability": "hide"
  },
  {
    "Point": "м. Київ ",
