@@ -1586,7 +1586,7 @@
  {
    "Point": "  м. Прип'ять",
    "census2018": 0,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA32100",
    "availability": "na"
  },
  {
@@ -4400,8 +4400,8 @@
  {
    "Point": "Республіка Крим",
    "census2018": 1,
-   "ADM2_PCODE": "",
-   "availability": ""
+   "ADM2_PCODE": "UA010",
+   "availability": "na"
  },
  {
    "Point": "  Чорноморський район",
@@ -4520,61 +4520,223 @@
  {
    "Point": " м. Київ (Голосіївський район)",
    "census2018": 251139,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800001",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Дарницький район)",
    "census2018": 341519,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800002",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Деснянський район)",
    "census2018": 368816,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800003",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Дніпровський район)",
    "census2018": 356379,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800004",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Оболонський район)",
    "census2018": 320277,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800005",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Печерський район)",
    "census2018": 159241,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800006",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Подільський район)",
    "census2018": 203860,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800007",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Святошинський район)",
    "census2018": 341871,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800008",
    "availability": "available"
  },
  {
-   "Point": " м. Київ (Солом´янський район)",
+   "Point": " м. Київ (Солом'янський район)",
    "census2018": 371101,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800009",
    "availability": "available"
  },
  {
    "Point": " м. Київ (Шевченківський район)",
    "census2018": 222634,
-   "ADM2_PCODE": "",
+   "ADM2_PCODE": "UA800010",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Львів (Франківський район)",
+   "census2018": "155 364",
+   "ADM2_PCODE": "UA461011",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Львів (Галицький район)",
+   "census2018": "52 796",
+   "ADM2_PCODE": "UA461012",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Львів (Личаківський район)",
+   "census2018": "105 233",
+   "ADM2_PCODE": "UA461013",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Львів (Шевченківський район)",
+   "census2018": "139 759",
+   "ADM2_PCODE": "UA461014",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Львів (Сихівський район)",
+   "census2018": "150 344",
+   "ADM2_PCODE": "UA461015",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Львів (Залізничний район)",
+   "census2018": "121 205",
+   "ADM2_PCODE": "UA461016",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Амур-Нижньодніпровський район)",
+   "census2018": 160123,
+   "ADM2_PCODE": "UA121011",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Чечелівський район)",
+   "census2018": 120706,
+   "ADM2_PCODE": "UA121012",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Новокодацький район)",
+   "census2018": 157000,
+   "ADM2_PCODE": "UA121013",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Центральний район)",
+   "census2018": 67200,
+   "ADM2_PCODE": "UA121014",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Соборний район)",
+   "census2018": 155520,
+   "ADM2_PCODE": "UA121015",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Шевченківський район)",
+   "census2018": 141000,
+   "ADM2_PCODE": "UA121016",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Індустріальний район)",
+   "census2018": 132700,
+   "ADM2_PCODE": "UA121017",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Дніпро (Самарський район)",
+   "census2018": 77900,
+   "ADM2_PCODE": "UA121018",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Індустріальний район)",
+   "census2018": 153800,
+   "ADM2_PCODE": "UA631011",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Київський район)",
+   "census2018": 184100,
+   "ADM2_PCODE": "UA631012",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Московський район)",
+   "census2018": 302200,
+   "ADM2_PCODE": "UA631013",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Немишлянський район)",
+   "census2018": 146300,
+   "ADM2_PCODE": "UA631014",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Новобаварський район)",
+   "census2018": 110600,
+   "ADM2_PCODE": "UA631015",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Основ'янський район)",
+   "census2018": 93000,
+   "ADM2_PCODE": "UA631016",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Слобідський район)",
+   "census2018": 146850,
+   "ADM2_PCODE": "UA631017",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Холодногірський район)",
+   "census2018": 85000,
+   "ADM2_PCODE": "UA631018",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Харків (Шевченківський район)",
+   "census2018": 229200,
+   "ADM2_PCODE": "UA631019",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Одеса (Київський район)",
+   "census2018": 256580,
+   "ADM2_PCODE": "UA511011",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Одеса (Малиновський район)",
+   "census2018": 242900,
+   "ADM2_PCODE": "UA511012",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Одеса (Приморський район)",
+   "census2018": 259000,
+   "ADM2_PCODE": "UA511013",
+   "availability": "available"
+ },
+ {
+   "Point": " м. Одеса (Суворовський район)",
+   "census2018": 263000,
+   "ADM2_PCODE": "UA511014",
    "availability": "available"
  }
 ]
