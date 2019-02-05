@@ -627,13 +627,13 @@
    "Point": "  Донецьк (міськрада)",
    "census2018": 934737,
    "ADM2_PCODE": "UA14101",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  м. Авдіївка",
    "census2018": 33311,
    "ADM2_PCODE": "UA14102",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Лиман (міськрада)",
@@ -657,13 +657,13 @@
    "Point": "  Горлівка (міськрада)",
    "census2018": 262401,
    "ADM2_PCODE": "UA14106",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  м. Дебальцеве",
    "census2018": 24758,
    "ADM2_PCODE": "UA14109",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Торецьк (міськрада) ",
@@ -687,7 +687,7 @@
    "Point": "  Докучаєвськ (міськрада)",
    "census2018": 23960,
    "ADM2_PCODE": "UA14116",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Дружківка (міськрада)",
@@ -699,19 +699,19 @@
    "Point": "  Єнакієве (міськрада)",
    "census2018": 106339,
    "ADM2_PCODE": "UA14120",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Жданівка (міськрада)",
    "census2018": 12916,
    "ADM2_PCODE": "UA14121",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  м. Хрестівка ",
    "census2018": 27701,
    "ADM2_PCODE": "UA14125",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  м. Костянтинівка",
@@ -735,7 +735,7 @@
    "Point": "  Макіївка (міськрада)",
    "census2018": 382310,
    "ADM2_PCODE": "UA14135",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Маріуполь (міськрада)",
@@ -765,37 +765,37 @@
    "Point": "  Сніжне (міськрада)",
    "census2018": 68410,
    "ADM2_PCODE": "UA14144",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Торез (міськрада)",
    "census2018": 77606,
    "ADM2_PCODE": "UA14147",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Харцизьк (міськрада)",
    "census2018": 101005,
    "ADM2_PCODE": "UA14150",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Шахтарськ (міськрада)",
    "census2018": 58661,
    "ADM2_PCODE": "UA14153",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  м. Ясинувата",
    "census2018": 34789,
    "ADM2_PCODE": "UA14155",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Амвросіївський район",
    "census2018": 44112,
    "ADM2_PCODE": "UA14206",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Бахмутський район ",
@@ -813,7 +813,7 @@
    "Point": "  Волноваський район",
    "census2018": 98214,
    "ADM2_PCODE": "UA14215",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Добропільський район",
@@ -837,13 +837,13 @@
    "Point": "  Мар'їнський район",
    "census2018": 80812,
    "ADM2_PCODE": "UA14233",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Новоазовський район",
    "census2018": 27425,
    "ADM2_PCODE": "UA14236",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Олександрівський (Донецька) район",
@@ -861,19 +861,19 @@
    "Point": "  Старобешівський район",
    "census2018": 49648,
    "ADM2_PCODE": "UA14245",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Бойківський район ",
    "census2018": 14066,
    "ADM2_PCODE": "UA14248",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Шахтарський район",
    "census2018": 19019,
    "ADM2_PCODE": "UA14252",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Мангушський район",
@@ -891,7 +891,7 @@
    "Point": "  Ясинуватський район",
    "census2018": 26423,
    "ADM2_PCODE": "UA14255",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "Житомирська область",
@@ -1947,43 +1947,43 @@
    "Point": "  Луганськ (міськрада)",
    "census2018": 432777,
    "ADM2_PCODE": "UA44101",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  м. Алчевськ",
    "census2018": 108024,
    "ADM2_PCODE": "UA44112",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Антрацит (міськрада)",
    "census2018": 75747,
    "ADM2_PCODE": "UA44103",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Брянка (міськрада)",
    "census2018": 51615,
    "ADM2_PCODE": "UA44105",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Кіровськ (міськрада)",
    "census2018": 32571,
    "ADM2_PCODE": "UA44110",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Красний Луч (міськрада)",
    "census2018": 120395,
    "ADM2_PCODE": "UA44116",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Краснодон (міськрада)",
    "census2018": 101562,
    "ADM2_PCODE": "UA44114",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Лисичанськ (міськрада)",
@@ -1995,13 +1995,13 @@
    "Point": "  м. Первомайськ",
    "census2018": 37078,
    "ADM2_PCODE": "UA44121",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Ровеньки (міськрада)",
    "census2018": 81777,
    "ADM2_PCODE": "UA44123",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  м. Рубіжне",
@@ -2013,7 +2013,7 @@
    "Point": "  Свердловськ (міськрада)",
    "census2018": 95990,
    "ADM2_PCODE": "UA44127",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Сєвєродонецьк (міськрада)",
@@ -2025,13 +2025,13 @@
    "Point": "  Стаханов (міськрада)",
    "census2018": 88755,
    "ADM2_PCODE": "UA44131",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Антрацитівський район",
    "census2018": 30233,
    "ADM2_PCODE": "UA44203",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Біловодський район",
@@ -2049,7 +2049,7 @@
    "Point": "  Сорокинський район ",
    "census2018": 29123,
    "ADM2_PCODE": "UA44214",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Кремінський район",
@@ -2061,7 +2061,7 @@
    "Point": "  Лутугинський район",
    "census2018": 65721,
    "ADM2_PCODE": "UA44222",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Марківський район",
@@ -2091,7 +2091,7 @@
    "Point": "  Перевальський район",
    "census2018": 63643,
    "ADM2_PCODE": "UA44236",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Попаснянський район",
@@ -2109,13 +2109,13 @@
    "Point": "  Довжанський район ",
    "census2018": 11716,
    "ADM2_PCODE": "UA44242",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Слов'яносербський район",
    "census2018": 48629,
    "ADM2_PCODE": "UA44245",
-   "availability": "available"
+   "availability": "na"
  },
  {
    "Point": "  Станично-Луганський район",
@@ -4383,7 +4383,7 @@
    "Point": "  Талалаївський район",
    "census2018": 12612,
    "ADM2_PCODE": "UA74253",
-   "availability": "available"
+   "availability": "bought"
  },
  {
    "Point": "  Сновський район",
